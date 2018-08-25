@@ -8,9 +8,12 @@ As a sequel to CSCI 135 it will also enhance your programming skills in C++ by i
 ### Instructor Information:
 
 **Name:** Dr. Tiziana Ligorio
-**email:** ligorio.tiziana@hunter.cuny.edu 
-	         csci235.help@gmail.com   
+
+**email:** ligorio.tiziana@hunter.cuny.edu / csci235.help@gmail.com 
+		 
 **Office:** Hunter North 1000-C 
+
 **Tel:** (212) 772-5213 (CS Department)
+
 **Office Hours:** TBA or by appointment
 

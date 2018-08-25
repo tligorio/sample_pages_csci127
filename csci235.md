@@ -1,5 +1,4 @@
 ## CSCI 235 - Software Analysis and Design II
-
 The primary focus of this course is the design and analysis of algorithms and abstract data types. 
 To this end it introduces elementary data structures with related algorithms and their use in problem solving. 
 The course also covers core computer science concepts such as abstraction, algorithm complexity, performance analysis and the tradeoffs between running time, storage size, clarity and extensibility that are at the core of software design. 

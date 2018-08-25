@@ -1,7 +1,10 @@
-###### **email:** ligorio.tiziana.hunter@gmail.com  / csci235.help@gmail.com   
-###### **Office:** Hunter North 1000-C 
-###### **Tel:** (212) 772-5213 (CS Department)
-###### **Office Hours:** TBA or by appointment
+**email:** ligorio.tiziana.hunter@gmail.com  / csci235.help@gmail.com 
+
+**Office:** Hunter North 1000-C 
+
+**Tel:** (212) 772-5213 (CS Department)
+
+**Office Hours:** TBA or by appointment
 
 # CSCI 235 - Software Analysis and Design II - Fall 2018
 

@@ -7,7 +7,7 @@ Department of Computer Science, Hunter College
 ### Teaching
 
 #### Fall 2018
-CSCI 235 - Software Analysis and Design II
+[CSCI 235 - Software Analysis and Design II] (https://tligorio.github.io/csci235.html)
 
 
 

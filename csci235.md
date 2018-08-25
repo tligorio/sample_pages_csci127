@@ -5,6 +5,7 @@ To this end it introduces elementary data structures with related algorithms and
 The course also covers core computer science concepts such as abstraction, algorithm complexity, performance analysis and the tradeoffs between running time, storage size, clarity and extensibility that are at the core of software design. 
 As a sequel to CSCI 135 it will also enhance your programming skills in C++ by introducing new tools such as Templates, Inheritance, Polymorphism, extend your understanding of pointers and dynamic memory allocation.
 
+
 ### Instructor Information:
 
 **Name:** Dr. Tiziana Ligorio

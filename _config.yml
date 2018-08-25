@@ -1,3 +1,5 @@
 remote_theme: mmistakes/so-simple-theme
 title: Tiziana Ligorio
 description: Doctoral Lecturer - Computer Science - Hunter College
+
+theme: jekyll-theme-cayman

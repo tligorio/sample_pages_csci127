@@ -14,3 +14,12 @@ The primary focus of this course is the **design and analysis of algorithms and 
 
 
 ### [Syllabus](CSCI235_Fall2018_Syllabus.pdf)
+
+
+
+## TENTATIVE SCHEDULE:
+
+LECTURE | DATE | TOPIC | READING | PROJECT
+------- | ---- | ----- | -------- | ---------
+1 | T, 8/28 | Welcome/Abstraction | Appendix B | #1 posted
+2 | TH,  8/30 **ROOM 115AB** | Abstraction / OOP | Chapter 1

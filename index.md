@@ -18,14 +18,14 @@ The primary focus of this course is the **design and analysis of algorithms and 
 
 
 
-### [Syllabus](CSCI235_Fall2018_Syllabus.pdf)   **-- PLEASE READ THIS CAREFULLY --**
+## [Syllabus](CSCI235_Fall2018_Syllabus.pdf)   **-- PLEASE READ THIS CAREFULLY --**
 
 
 
 
 
 
-> [Programming Rules](CSCI235_ProgrammingRules.pdf)
+## [Programming Rules](CSCI235_ProgrammingRules.pdf)
 
 
 

@@ -67,6 +67,6 @@ x | TH, 11/22 | **NO CLASS** | | Project_6 |
 24 | T, 12/4 | Tree Implementation | Chapter 16 | 
 25 | TH, 12/6 | -//- |
 26 | T, 12/11 | Final Review | 
-x | TH, 12/13 | **Reading Day NO CLASS** | | **Project_6 DUE** |
+x | TH, 12/13 | **Reading Day,   NO CLASS** | | **Project_6 DUE** |
 x | **TBA** | **FINAL** | 
 

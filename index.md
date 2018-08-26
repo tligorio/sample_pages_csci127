@@ -14,9 +14,13 @@ The primary focus of this course is the **design and analysis of algorithms and 
 
 
 
+
+
 ### [Syllabus](CSCI235_Fall2018_Syllabus.pdf)   **-- PLEASE READ THIS CAREFULLY --**
 
 ### [Programming Rules](CSCI235_ProgrammingRules.pdf)
+
+
 
 
 
@@ -53,7 +57,7 @@ x | TH, 11/22 | **NO CLASS** | | Project_6 |
 23 | TH, 11/29 | -//- | 
 24 | T, 12/4 | Tree Implementation | Chapter 16 | 
 25 | TH, 12/6 | -//- |
-26 | T, 12/11 | -//- | 
+26 | T, 12/11 | Final Review | 
 x | TH, 12/13 | **Reading Day NO CLASS** | 
 x | **TBA** | **FINAL** | 
 

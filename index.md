@@ -25,7 +25,7 @@ The primary focus of this course is the **design and analysis of algorithms and 
 
 
 
-## [Programming Rules](CSCI235_ProgrammingRules.pdf)
+## [Programming Rules](CSCI235_Fall2018_ProgrammingRules.pdf) **-- PLEASE READ THIS CAREFULLY --**
 
 
 
@@ -37,8 +37,8 @@ The primary focus of this course is the **design and analysis of algorithms and 
 
 LECTURE | DATE | TOPIC | READING | PROJECT | SLIDES
 ------- | ---- | ----- | -------- | --------- | ------- |
-1 | T, 8/28 | Welcome / Intro | Appendix B | Project_1 |
-2 | TH,  8/30 - **ROOM 115AB** | Abstraction / OOP | Chapter 1  | |
+1 | T, 8/28 | Welcome / Intro | Syllabus, Programming Rules | Project_1 |
+2 | TH,  8/30 - **ROOM 115AB** | Abstraction / OOP | Chapter 1, Appendix B   | |
 3 | T, 9/4 | Abstract Data Types / Templates | C++ Interlude-1 | **Project_1 DUE** /  Project_2 |
 4 | TH, 9/6 | Array-Based Implementation | Chapter 3  | |
 x | T, 9/11 | **NO CLASS** | | |

@@ -13,7 +13,10 @@
 The primary focus of this course is the **design and analysis of algorithms and abstract data types**. To this end it introduces elementary data structures with related algorithms and their use in problem solving. The course also covers core computer science concepts such as abstraction, algorithm complexity, performance analysis and the tradeoffs between running time, storage size, clarity and extensibility that are at the core of software design. As a sequel to CSCI 135 it will also enhance your programming skills in C++ by introducing new tools such as Templates, Inheritance, Polymorphism, extend your understanding of pointers and dynamic memory allocation.
 
 
-### [Syllabus](CSCI235_Fall2018_Syllabus.pdf)
+
+### [Syllabus](CSCI235_Fall2018_Syllabus.pdf)   **-- PLEASE READ THIS CAREFULLY --**
+
+### [Programming Rules](CSCI235_ProgrammingRules.pdf)
 
 
 
@@ -43,4 +46,14 @@ x | TH, 10/25 | **Midterm** |  |  |  |
 17 | T, 11/6 | -//- |  | | | 
 18 | TH, 11/8 | Recursion as a Problem Solving Technique | Chapter 5 | 
 19 | T, 11/13 | Queues and Priority Queues | Chapter 13 |
+20 | TH, 11/15 | Queue Implementation | Chapter 14 | 
+21 | T, 11/20 | -//- | 
+x | TH, 11/22 | **NO CLASS** | | Project_6 | 
+22 | T, 11/27 | Trees | Chapter 16 | **Project_5 DUE** | 
+23 | TH, 11/29 | -//- | 
+24 | T, 12/4 | Tree Implementation | Chapter 16 | 
+25 | TH, 12/6 | -//- |
+26 | T, 12/11 | -//- | 
+x | TH, 12/13 | **Reading Day NO CLASS** | 
+x | **TBA** | **FINAL** | 
 

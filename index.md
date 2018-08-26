@@ -21,5 +21,5 @@ The primary focus of this course is the **design and analysis of algorithms and 
 
 LECTURE | DATE | TOPIC | READING | PROJECT
 ------- | ---- | ----- | -------- | ---------
-1 | T, 8/28 | Welcome/Abstraction | Appendix B | #1 posted
+1 | T, 8/28 | Welcome/Abstraction | Appendix B | 
 2 | TH,  8/30 - **ROOM 115AB** | Abstraction / OOP | Chapter 1

@@ -19,14 +19,28 @@ The primary focus of this course is the **design and analysis of algorithms and 
 
 ## TENTATIVE SCHEDULE:
 
-LECTURE | DATE | TOPIC | READING | PROJECT
-------- | ---- | ----- | -------- | ---------
-1 | T, 8/28 | Welcome / Intro | Appendix B | Project_1
-2 | TH,  8/30 - **ROOM 115AB** | Abstraction / OOP | Chapter 1  |
-3 | T, 9/4 | Abstract Data Types / Templates | C++ Interlude-1 | **Project_1 DUE** /  Project_2
-4 | TH, 9/6 | Array-Based Implementation | Chapter 3  |
-x  | T, 9/11 | **NO CLASS** | |
-5 | TH, 9/13 | Inheritance  & Polymorphism | C++ Interlude-2 | 
-
-
+LECTURE | DATE | TOPIC | READING | PROJECT | SLIDES
+------- | ---- | ----- | -------- | --------- | ------- |
+1 | T, 8/28 | Welcome / Intro | Appendix B | Project_1 |
+2 | TH,  8/30 - **ROOM 115AB** | Abstraction / OOP | Chapter 1  | |
+3 | T, 9/4 | Abstract Data Types / Templates | C++ Interlude-1 | **Project_1 DUE** /  Project_2 |
+4 | TH, 9/6 | Array-Based Implementation | Chapter 3  | |
+x | T, 9/11 | **NO CLASS** | | |
+5 | TH, 9/13 | Inheritance  & Polymorphism | C++ Interlude-2 |  |
+6 | TH, 9/20 | -//- |  |  **Project_2 DUE**  /  Project_3 |
+7 | T, 9/25 | Recursion | Chapter 2 |  |
+8 | TH, 9/27 **ROOM 115AB** | Link-based Implementation | Chapter 4 |
+9 | T, 10/2 | -//-  |  | |
+10 | TH, 10/4 | Stacks | Chapters 6 |  |
+11 | T, 10/9 | Stack Implementations | Chapter 7 | | 
+12 | TH, 10/11 | Lists | Chapter 8 | **Project_3 DUE** Project_4 |  |
+13 | T, 10/16 | List Implementation | Chapter 9 |  | |
+14 | TH, 10/18 | -//- | | | | 
+x | T, 10/23 | Midterm Review | |  |  |
+x | TH, 10/25 | **Midterm** |  |  |  |
+15 | T, 10/30 | Algorithm Efficiency | Chapter 10 | | |
+16 | TH, 11/1 | Sorting Algorithms and their Efficiency | Chapter 11 | **Project_4 DUE** Project_5  |
+17 | T, 11/6 | -//- |  | | | 
+18 | TH, 11/8 | Recursion as a Problem Solving Technique | Chapter 5 | 
+19 | T, 11/13 | Queues and Priority Queues | Chapter 13 |
 

@@ -4,7 +4,7 @@
 
 **Tel:** (212) 772-5213 (CS Department)
 
-**Office Hours:** TBA or by appointment
+**Office Hours:** Wednesday 1:30 - 3:30pm Hunter North or by appointment
 
 # CSCI 235 - Software Analysis and Design II 
 # Fall 2018

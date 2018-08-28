@@ -1,4 +1,4 @@
-**email:** ligorio.tiziana.hunter@gmail.com  / csci235.help@gmail.com 
+**email:** ligorio.tiziana@hunter.cuny.edu  / csci235.help@gmail.com 
 
 **Office:** Hunter North 1000-C 
 

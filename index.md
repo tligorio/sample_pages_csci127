@@ -31,7 +31,7 @@ The primary focus of this course is the **design and analysis of algorithms and 
 
 # Announcements:
 
-**8/30/2018** Postponed Project_1 due date, as well as all future projects accordingly
+**8/30/2018** **Postponed Project_1 due date to 9/6**, as well as all future projects accordingly
 
 **8/30/2018** Email update: the alias (ligorio.tiziana) for my hunter email doesn't seem to be working. Please use tligorio@hunter.cuny.edu
 

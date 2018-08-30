@@ -50,7 +50,7 @@ LECTURE | DATE | TOPIC | READING | PROJECT | SLIDES
 x | T, 9/11 | **NO CLASS** | | |
 5 | TH, 9/13 | Inheritance  & Polymorphism | C++ Interlude-2 |  |
 6 | TH, 9/20 | -//- |  |   |
-7 | T, 9/25 | Recursion | Chapter 2 | Project_3 / **Project_2 DUE**  |
+7 | T, 9/25 | Recursion | Chapter 2 |  **Project_2 DUE** / Project_3  |
 8 | TH, 9/27 **ROOM 115AB** | Link-based Implementation | Chapter 4 |
 9 | T, 10/2 | -//-  |  | |
 10 | TH, 10/4 | Stacks | Chapters 6 |  |

@@ -31,6 +31,8 @@ The primary focus of this course is the **design and analysis of algorithms and 
 
 # Announcements:
 
+**8/30/2018** Postponed Project_1 due date, as well as all future projects accordingly
+
 **8/30/2018** Email update: the alias (ligorio.tiziana) for my hunter email doesn't seem to be working. Please use tligorio@hunter.cuny.edu
 
 **8/30/2018** I posted a flash intro to Object Oriented Programming along with Project 1 in the table below. Those of you who are confused about Project 1 and the basics of writing classes may find this helpful.
@@ -43,8 +45,8 @@ LECTURE | DATE | TOPIC | READING | PROJECT | SLIDES
 ------- | ---- | ----- | -------- | --------- | ------- |
 1 | T, 8/28 | Welcome / Intro | Syllabus, Programming Rules | [Project_1](Project1.html) [OOP_flash_intro](OOP_flash_intro.html)| [Lecture_1](Lecture 1.pdf)
 2 | TH,  8/30 - **ROOM 115AB** | Abstraction / OOP | Chapter 1, Appendix B   | | [Lecture_2](Lecture 2.pdf)
-3 | T, 9/4 | Abstract Data Types / Templates | C++ Interlude-1 | **Project_1 DUE**  |
-4 | TH, 9/6 | Array-Based Implementation | Chapter 3  |Project_2 |  
+3 | T, 9/4 | Abstract Data Types / Templates | C++ Interlude-1 |  |
+4 | TH, 9/6 | Array-Based Implementation | Chapter 3  |**Project_1 DUE** / Project_2 |  
 x | T, 9/11 | **NO CLASS** | | |
 5 | TH, 9/13 | Inheritance  & Polymorphism | C++ Interlude-2 |  |
 6 | TH, 9/20 | -//- |  |   |
@@ -60,8 +62,8 @@ x | T, 10/23 | Midterm Review | |  |  |
 x | TH, 10/25 | **Midterm** |  |  |  |
 15 | T, 10/30 | Algorithm Efficiency | Chapter 10 | | |
 16 | TH, 11/1 | Sorting Algorithms and their Efficiency | Chapter 11 |  |
-17 | T, 11/6 | -//- |  | | | 
-18 | TH, 11/8 | Recursion as a Problem Solving Technique | Chapter 5 | **Project_4 DUE** / Project_5 
+17 | T, 11/6 | -//- |  | **Project_4 DUE** / Project_5 | 
+18 | TH, 11/8 | Recursion as a Problem Solving Technique | Chapter 5 |  
 19 | T, 11/13 | Queues and Priority Queues | Chapter 13 |
 20 | TH, 11/15 | Queue Implementation | Chapter 14 | 
 21 | T, 11/20 | -//- | 

@@ -42,7 +42,7 @@ The primary focus of this course is the **design and analysis of algorithms and 
 LECTURE | DATE | TOPIC | READING | PROJECT | SLIDES
 ------- | ---- | ----- | -------- | --------- | ------- |
 1 | T, 8/28 | Welcome / Intro | Syllabus, Programming Rules | [Project_1](Project1.html) [OOP_flash_intro](OOP_flash_intro.html)| [Lecture_1](Lecture 1.pdf)
-2 | TH,  8/30 - **ROOM 115AB** | Abstraction / OOP | Chapter 1, Appendix B   | |
+2 | TH,  8/30 - **ROOM 115AB** | Abstraction / OOP | Chapter 1, Appendix B   | | [Lecture 2](Lecture 2.pdf)
 3 | T, 9/4 | Abstract Data Types / Templates | C++ Interlude-1 | **Project_1 DUE** /  Project_2 |
 4 | TH, 9/6 | Array-Based Implementation | Chapter 3  | |
 x | T, 9/11 | **NO CLASS** | | |

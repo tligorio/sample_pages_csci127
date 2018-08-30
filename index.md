@@ -29,7 +29,9 @@ The primary focus of this course is the **design and analysis of algorithms and 
 
 
 
+# Announcements:
 
+**8/30/2018** I posted a flash intro to Object Oriented Programming along with Project 1 in the table below. Those of you who are confused about Project 1 and the basics of writing classes may find this helpful.
 
 
 

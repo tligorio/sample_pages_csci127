@@ -31,6 +31,10 @@ The primary focus of this course is the **design and analysis of algorithms and 
 
 # Announcements:
 
+**8/30/2018** In C++, .h and .hpp extensions are the same (interchangable). Once you have named your interface file, however, you must use the exact file name and extension in your #include statements. For Project 1, the files on Gradescope are named Customer.hpp and GeniusBar.hpp, so please use *#include "Customer.hpp"* and *#include "GeniusBar.hpp* in your submission. Thank you!
+
+**8/30/2018** My CUNYfirst account is locked and I cannot access Blackboard for now. Please keep an eye on these announcements regularly for important communications. Thank you!
+
 **8/30/2018** **Postponed Project_1 due date to 9/6**, as well as all future projects accordingly
 
 **8/30/2018** Email update: the alias (ligorio.tiziana) for my hunter email doesn't seem to be working. Please use tligorio@hunter.cuny.edu

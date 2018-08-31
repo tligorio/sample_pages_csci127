@@ -49,13 +49,14 @@ LECTURE | DATE | TOPIC | READING | PROJECT | SLIDES
 ------- | ---- | ----- | -------- | --------- | ------- |
 1 | T, 8/28 | Welcome / Intro | Syllabus, Programming Rules | [Project_1](Project1.html) [OOP_flash_intro](OOP_flash_intro.html)| [Lecture_1](Lecture 1.pdf)
 2 | TH,  8/30 - **ROOM 115AB** | Abstraction / OOP | Chapter 1, Appendix B   | | [Lecture_2](Lecture 2.pdf)
-3 | T, 9/4 | Abstract Data Types / Templates | C++ Interlude-1 |  |
+3 | T, 9/4 | Abstract Data Types / Templates /Intro to Inheritance | C++ Interlude-1 |  |
 4 | TH, 9/6 | Array-Based Implementation | Chapter 3  |**Project_1 DUE** / Project_2 |  
 x | T, 9/11 | **NO CLASS** | | |
-5 | TH, 9/13 | Inheritance  & Polymorphism | C++ Interlude-2 |  |
-6 | TH, 9/20 | -//- |  |   |
-7 | T, 9/25 | Recursion | Chapter 2 |  **Project_2 DUE** / Project_3  |
-8 | TH, 9/27 **ROOM 115AB** | Link-based Implementation | Chapter 4 |
+5 | TH, 9/13 | Recursion| Chapter 2 |  |
+x | T, 9/18 | **NO CLASS**
+6 | TH, 9/20 | Link-based Implementation | C++ Interlude 2 (Pointers), Chapter 4 |   |
+7 | T, 9/25 | -//-|  |  **Project_2 DUE** / Project_3  |
+8 | TH, 9/27 **ROOM 115AB** | Inheritance  & Polymorphism  | C++ Interlude 2 (Polymorphism)  |
 9 | T, 10/2 | -//-  |  | |
 10 | TH, 10/4 | Stacks | Chapters 6 |  |
 11 | T, 10/9 | Stack Implementations | Chapter 7 | | 

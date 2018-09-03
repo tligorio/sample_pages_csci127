@@ -56,7 +56,7 @@ LECTURE | DATE | TOPIC | READING | PROJECT | SLIDES
 x | T, 9/11 | **NO CLASS** | | |
 5 | TH, 9/13 | Recursion| Chapter 2 |  |
 x | T, 9/18 | **NO CLASS**
-6 | TH, 9/20 | Link-based Implementation | C++ Interlude 2 (Pointers), Chapter 4 |   |
+6 | TH, 9/20 | Link-based Implementation | C++ Interlude 2 (Pointers), [pointers and references tutorial](http://www.ntu.edu.sg/home/ehchua/programming/cpp/cp4_pointerreference.html},  Chapter 4 |   |
 7 | T, 9/25 | -//-|  |  **Project_2 DUE** / Project_3  |
 8 | TH, 9/27 **ROOM 115AB** | Inheritance  & Polymorphism  | C++ Interlude 2 (Polymorphism)  |
 9 | T, 10/2 | -//-  |  | |

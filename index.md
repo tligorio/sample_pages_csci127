@@ -38,6 +38,7 @@ The primary focus of this course is the **design and analysis of algorithms and 
 
 # Announcements:
 
+**9/5/2018 REMINDER:** Today Hunter follows a Monday schedule, so the UTA's will not be in the lab for tutoring. HOWEVER, the Skirball Science Learning Center is open (Hunter East 7th floor). Please visit them and find out about their schedule for drop-in tutoring for CSCI 235.(https://library.hunter.cuny.edu/skirball-science-learning-center)
 **8/31/2018** I re-arranged the topics/reading in the schedule for lectures 5-9. Changes are also reflected in the syllabus, please get the updated version if you are referring to the syllabus for the schedule.
 
 **8/30/2018** In C++, .h and .hpp extensions are the same (interchangable). Once you have named your interface file, however, you must use the exact file name and extension in your #include statements. **For Project 1, the files on Gradescope are named Customer.hpp and GeniusBar.hpp, so please use *#include "Customer.hpp"* and *#include "GeniusBar.hpp* in your submission.** Thank you!

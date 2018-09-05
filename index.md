@@ -58,7 +58,7 @@ LECTURE | DATE | TOPIC | READING | PROJECT | SLIDES
 ------- | ---- | ----- | -------- | --------- | ------- |
 1 | T, 8/28 | Welcome / Intro | Syllabus, Programming Rules | [Project_1](Project1.html) [OOP_flash_intro](OOP_flash_intro.html)| [Lecture_1](Lecture 1.pdf)
 2 | TH,  8/30 - **ROOM 115AB** | Abstraction / OOP | Chapter 1, Appendix B   | | [Lecture_2](Lecture 2.pdf)
-3 | T, 9/4 | Abstract Data Types / Templates /Intro to Inheritance | C++ Interlude-1 |  |
+3 | T, 9/4 | Abstract Data Types / Templates /Intro to Inheritance | C++ Interlude-1 | | [Lecture_3_incomplete](Lecture3_incomplete.pdf) 
 4 | TH, 9/6 | Array-Based Implementation | Chapter 3  |**Project_1 DUE** / Project_2 |  
 x | T, 9/11 | **NO CLASS** | | |
 5 | TH, 9/13 | Recursion| Chapter 2 |  |

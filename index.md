@@ -38,24 +38,24 @@ The primary focus of this course is the **design and analysis of algorithms and 
 
 # Announcements:
 
-**9/7/2018 Project 2 posted!** It is due on 9/25. There is no class on Tuesday 9/11. We will go over the Bag class in detail on Thursday 9/13. DO NOT WAIT until then to get started on Project 2. Read the instructions thoroughly and understand the full picture before you begin to code. I will post ArrayBag.h and ArrayBag.cpp on Blackboard under "Course Materials". You can start reading it and modifying it to obtain the Set class. If there are some methods you are not sure about, you can write stubs for them and still test some functionalities of Set. You can then go back and fill those in after we cover Bag in class on Thursday. **BE PROACTIVE, START EARLY!!!**
+**9/7/2018 -- Project 2 posted!** It is due on 9/25. There is no class on Tuesday 9/11. We will go over the Bag class in detail on Thursday 9/13. DO NOT WAIT until then to get started on Project 2. Read the instructions thoroughly and understand the full picture before you begin to code. I will post ArrayBag.h and ArrayBag.cpp on Blackboard under "Course Materials". You can start reading it and modifying it to obtain the Set class. If there are some methods you are not sure about, you can write stubs for them and still test some functionalities of Set. You can then go back and fill those in after we cover Bag in class on Thursday. **BE PROACTIVE, START EARLY!!!**
 
-**9/5/2018** There is a typo in the comments of the main() function for Project 1: true (0) is a typo, it should be false (0).
+**9/5/2018 --** There is a typo in the comments of the main() function for Project 1: true (0) is a typo, it should be false (0).
 Just go by the value in the parenthesis, so if it says (1) your output should be 1, if it says (0) your output should be 0. Sorry for the confusion!!!
 
-**9/5/2018 REMINDER:** Today Hunter follows a Monday schedule, so the UTA's will not be in the lab for tutoring. HOWEVER, the [Skirball Science Learning Center](https://library.hunter.cuny.edu/skirball-science-learning-center) is open (Hunter East 7th floor). Please visit them and find out about their schedule for drop-in tutoring for CSCI 235.
+**9/5/2018 -- REMINDER:** Today Hunter follows a Monday schedule, so the UTA's will not be in the lab for tutoring. HOWEVER, the [Skirball Science Learning Center](https://library.hunter.cuny.edu/skirball-science-learning-center) is open (Hunter East 7th floor). Please visit them and find out about their schedule for drop-in tutoring for CSCI 235.
 
-**8/31/2018** I re-arranged the topics/reading in the schedule for lectures 5-9. Changes are also reflected in the syllabus, please get the updated version if you are referring to the syllabus for the schedule.
+**8/31/2018 --** I re-arranged the topics/reading in the schedule for lectures 5-9. Changes are also reflected in the syllabus, please get the updated version if you are referring to the syllabus for the schedule.
 
-**8/30/2018** In C++, .h and .hpp extensions are the same (interchangable). Once you have named your interface file, however, you must use the exact file name and extension in your #include statements. **For Project 1, the files on Gradescope are named Customer.hpp and GeniusBar.hpp, so please use *#include "Customer.hpp"* and *#include "GeniusBar.hpp* in your submission.** Thank you!
+**8/30/2018 --** In C++, .h and .hpp extensions are the same (interchangable). Once you have named your interface file, however, you must use the exact file name and extension in your #include statements. **For Project 1, the files on Gradescope are named Customer.hpp and GeniusBar.hpp, so please use *#include "Customer.hpp"* and *#include "GeniusBar.hpp* in your submission.** Thank you!
 
-**8/30/2018** My CUNYfirst account is locked and I cannot access Blackboard for now. Please keep an eye on these announcements regularly for important communications. Thank you!
+**8/30/2018 --** My CUNYfirst account is locked and I cannot access Blackboard for now. Please keep an eye on these announcements regularly for important communications. Thank you!
 
-**8/30/2018** **Postponed Project_1 due date to 9/6**, as well as all future projects accordingly
+**8/30/2018 --** **Postponed Project_1 due date to 9/6**, as well as all future projects accordingly
 
-**8/30/2018** Email update: the alias (ligorio.tiziana) for my hunter email doesn't seem to be working. Please use tligorio@hunter.cuny.edu
+**8/30/2018 --** Email update: the alias (ligorio.tiziana) for my hunter email doesn't seem to be working. Please use tligorio@hunter.cuny.edu
 
-**8/30/2018** I posted a flash intro to Object Oriented Programming along with Project 1 in the table below. Those of you who are confused about Project 1 and the basics of writing classes may find this helpful.
+**8/30/2018 --** I posted a flash intro to Object Oriented Programming along with Project 1 in the table below. Those of you who are confused about Project 1 and the basics of writing classes may find this helpful.
 
 
 

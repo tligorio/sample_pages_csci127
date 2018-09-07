@@ -38,6 +38,8 @@ The primary focus of this course is the **design and analysis of algorithms and 
 
 # Announcements:
 
+**9/7/2018 Project 2 posted!** It is due on 9/25. There is no class on Tuesday 9/11. We will go over the Bag class in detail on Thursday 9/13. DO NOT WAIT until then to get started on Project 2. Read the instructions thoroughly and understand the full picture before you begin to code. I will post Bag.h and Bag.cpp on Blackboard under "Course Materials". You can start reading it and modifying it to obtain the Set class. If there are some methods you are not sure about, you can write stubs for them and still test some functionalities of Set. You can then go back and fill those in after we cover Bag in class on Thursday. **BE PROACTIVE, START EARLY!!!**
+
 **9/5/2018** There is a typo in the comments of the main() function for Project 1: true (0) is a typo, it should be false (0).
 Just go by the value in the parenthesis, so if it says (1) your output should be 1, if it says (0) your output should be 0. Sorry for the confusion!!!
 

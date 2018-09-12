@@ -6,7 +6,7 @@
 
 **Office Hours:** 
 
-> Mondays 1:30 - 2:30
+> Mondays 2:30 - 3:30
 
 > Wednesday 2:30 - 3:30 
 

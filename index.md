@@ -47,7 +47,7 @@ The primary focus of this course is the **design and analysis of algorithms and 
 # Announcements:
 
 **9/25/2018 -- Google Information Session** 
-![Google info flyer](GoogleEPHunter.png)
+![Google info flyer](images/GoogleEPHunter.png)
 
 **9/19/2018 -- 30-MIN DISCUSSION SESSION ABOUT PROJECT 2 AFTER CLASS TOMORROW** I will stay 30 minutes after class to answer questions about Project 2. We will have a group discussion and I will answer any questions about Project 2, however this will not be a debugging session.
 

@@ -46,7 +46,11 @@ The primary focus of this course is the **design and analysis of algorithms and 
 
 # Announcements:
 
-**9/25/2018 -- Google Information Session** (Check their webpage for more info)[https://googleinfosession.splashthat.com/]
+**9/25/2018 -- Google Information Session** 
+
+(Check their webpage for more info)[https://googleinfosession.splashthat.com/]
+
+(RSVP here)[https://docs.google.com/forms/d/e/1FAIpQLSerMq19yz2K9iyE8-GKCnsyG31vM9_zZ3OwV_UiDCTz5KipyA/viewform]
 
 ![Google info flyer](images/GoogleEPHunter.png)
 

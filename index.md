@@ -97,7 +97,7 @@ x | T, 9/11 | **NO CLASS** | | |
 5 | TH, 9/13 | Recursion| Chapter 2 |  | [Lecture_5](Lecture 5.pdf)
 x | T, 9/18 | **NO CLASS**
 6 | TH, 9/20 | Link-based Implementation | C++ Interlude 2 (Pointers), [pointers and references tutorial](http://www.ntu.edu.sg/home/ehchua/programming/cpp/cp4_pointerreference.html),  Chapter 4 |   |
-7 | T, 9/25 | -//-|  |  **Project_2 DUE** / [Project_3](Project3.html)  | [Lecture_6/7](Lecture 6.pdf) 
+7 | T, 9/25 | -//-|  |  **Project_2 DUE** / [Project_3](Project3.html)  | [Lecture_6/7](Lecture6.pdf) 
 8 | TH, 9/27 **ROOM 115AB** | Inheritance  & Polymorphism  | C++ Interlude 2 (Polymorphism)  |
 9 | T, 10/2 | -//-  |  | |
 10 | TH, 10/4 | Stacks | Chapters 6 |  | 

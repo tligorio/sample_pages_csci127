@@ -46,6 +46,8 @@ The primary focus of this course is the **design and analysis of algorithms and 
 
 # Announcements:
 
+**9/25/2018 -- No TA tutoring in lab Wednesday 9/26 and Thursday 9/27** 
+
 **9/25/2018 -- Google Information Session** 
 
 [Check out their webpage for more info](https://googleinfosession.splashthat.com)

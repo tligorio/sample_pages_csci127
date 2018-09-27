@@ -54,7 +54,6 @@ The primary focus of this course is the **design and analysis of algorithms and 
 
 [RSVP here](https://docs.google.com/forms/d/e/1FAIpQLSerMq19yz2K9iyE8-GKCnsyG31vM9_zZ3OwV_UiDCTz5KipyA/viewform)
 
-![Google info flyer](images/GoogleEPHunter.png)
 
 **9/19/2018 -- 30-MIN DISCUSSION SESSION ABOUT PROJECT 2 AFTER CLASS TOMORROW** I will stay 30 minutes after class to answer questions about Project 2. We will have a group discussion and I will answer any questions about Project 2, however this will not be a debugging session.
 

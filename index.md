@@ -46,6 +46,8 @@ The primary focus of this course is the **design and analysis of algorithms and 
 
 # Announcements:
 
+**9/28/2018 -- Slight modifications to Project 3** Slight modification in the wording pertaining to the copy constructor to avoid confusion. Also some changes to main()
+
 **9/25/2018 -- No TA tutoring in lab Wednesday 9/26 and Thursday 9/27** 
 
 **9/25/2018 -- Google Information Session** 
@@ -99,7 +101,7 @@ x | T, 9/18 | **NO CLASS**
 7 | T, 9/25 | -//-|  |  **Project_2 DUE** / [Project_3](Project3.html)  | [Lecture_6/7](Lecture6.pdf) 
 8 | TH, 9/27 **ROOM 115AB** | Inheritance  & Polymorphism  | C++ Interlude 2 (Polymorphism)  |
 9 | T, 10/2 | -//-  |  | |
-10 | TH, 10/4 | Stacks | Chapters 6 |  | 
+10 | TH, 10/4 | Stacks | Chapter 6 |  | 
 11 | T, 10/9 | Stack Implementations | Chapter 7 | | 
 12 | TH, 10/11 | Lists | Chapter 8 |  |  |
 13 | T, 10/16 | List Implementation | Chapter 9 | **Project_3 DUE**  /Project_4 | |

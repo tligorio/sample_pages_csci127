@@ -101,7 +101,7 @@ x | T, 9/11 | **NO CLASS** | | |
 x | T, 9/18 | **NO CLASS**
 6 | TH, 9/20 | Link-based Implementation | C++ Interlude 2 (Pointers), [pointers and references tutorial](http://www.ntu.edu.sg/home/ehchua/programming/cpp/cp4_pointerreference.html),  Chapter 4 |   |
 7 | T, 9/25 | -//-|  |  **Project_2 DUE** / [Project_3](Project3.html)  | [Lecture_6/7](Lecture6.pdf) 
-8 | TH, 9/27 **ROOM 115AB** | Inheritance  & Polymorphism  | C++ Interlude 2 (Polymorphism)  |
+8 | TH, 9/27 **ROOM 115AB** | Inheritance  & Polymorphism  | C++ Interlude 2 (Polymorphism) | |[Lecture_8/9](Lecture8:9.pdf)
 9 | T, 10/2 | -//-  |  | |
 10 | TH, 10/4 | Stacks | Chapter 6 |  | 
 11 | T, 10/9 | Stack Implementations | Chapter 7 | | 

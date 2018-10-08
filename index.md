@@ -46,9 +46,11 @@ The primary focus of this course is the **design and analysis of algorithms and 
 
 # Announcements:
 
+**10/08/2018 -- Added sample output to Project3 description**
+
 **10/01/2018 -- [Queens College Hackathon](http://www.hackattack2018.com/)**
 
-**9/28/2018 -- Slight modifications to Project 3** Slight modification in the wording pertaining to the copy constructor to avoid confusion. Also some changes to main()
+**9/28/2018 -- Slight modifications to Project3** Slight modification in the wording pertaining to the copy constructor to avoid confusion. Also some changes to main()
 
 **9/25/2018 -- No TA tutoring in lab Wednesday 9/26 and Thursday 9/27** 
 

@@ -46,6 +46,8 @@ The primary focus of this course is the **design and analysis of algorithms and 
 
 # Announcements:
 
+**10/10/2018 NO OFFICE HOURS TODAY** I will be available Thursday before class by appointment, if anyone planned to see me today please send me email. Thank you!
+
 **10/10/2018 Project3 Q&A:** If you have not completed Project 3 yet, tomorrow Thursday 10/11 is your chance to have all your questions answered. We will go over Project 3 at the beginning of lecture and make sure you have all the info you need for a successful submission! Don't miss it!!!!
 
 **10/10/2018 Google info session LAST CHANCE TODAY!!!** Don't miss it! Check out their webpage for more info](https://googleinfosession.splashthat.com/)
@@ -61,8 +63,6 @@ Lehman College's 5th annual student-run hackathon: Lehman Hacks, our event is ta
 This is a great opportunity for students to collaborate and learn through active participation and problem-solving. The Hackathon is open to all majors and do not expect attendees to come in with any prior knowledge about coding, in fact, we will be hosting several workshops to teach fundamental practices so that every attendee can feel like they've contributed. The experience gained from this event has helped many of our students add to their portfolios and build on their skills. We have had several of our Sponsors hire students directly from our event, and they are interested in sourcing more of the talent at CUNY.
 
 For more information:  [https://nshacks.com ](https://nshacks.com)
-
-**10/10/2018 NO OFFICE HOURS TODAY** I will be available Thursday before class by appointment, if anyone planned to see me today please send me email. Thank you!
 
 **10/10/2018 Hunter College CS Student Event Calendar:** [http://bit.ly/HunterTechCalendar](http://bit.ly/HunterTechCalendar)
 

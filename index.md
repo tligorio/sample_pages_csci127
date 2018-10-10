@@ -48,13 +48,13 @@ The primary focus of this course is the **design and analysis of algorithms and 
 
 **10/10/2018 Project3 Q&A:** If you have not completed Project 3 yet, tomorrow Thursday 10/11 is your chance to have all your questions answered. We will go over Project 3 at the beginning of lecture and make sure you have all the info you need for a successful submission! Don't miss it!!!!
 
-**10/10/2018 Google info session last chance today!!!** Don't miss it! Check out their webpage for more info](https://googleinfosession.splashthat.com/)
+**10/10/2018 Google info session LAST CHANCE TODAY!!!** Don't miss it! Check out their webpage for more info](https://googleinfosession.splashthat.com/)
 
 **10/10/2018 Hackathon: 16-17 November** 
 
 From the Lehman College National Society of Black Engineers (NSBE):
 
-[lcHacks](lcHacks.png)
+![lcHacks](lcHacks.png)
 
 Lehman College's 5th annual student-run hackathon: Lehman Hacks, our event is taking place November 16th - 17th.
 

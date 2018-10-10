@@ -62,6 +62,8 @@ This is a great opportunity for students to collaborate and learn through active
 
 For more information:  [https://nshacks.com ](https://nshacks.com)
 
+**10/10/2018 NO OFFICE HOURS TODAY** I will be available Thursday before class by appointment, if anyone planned to see me today please send me email. Thank you!
+
 **10/10/2018 Hunter College CS Student Event Calendar:** [http://bit.ly/HunterTechCalendar](http://bit.ly/HunterTechCalendar)
 
 **10/08/2018 -- Added sample output to Project3 description**

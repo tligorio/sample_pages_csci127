@@ -67,7 +67,7 @@ For more information:  [https://nshacks.com ](https://nshacks.com)
 **10/08/2018 -- Added sample output to Project3 description**
 
 **10/01/2018 -- [Queens College Hackathon](http://www.hackattack2018.com/)**
-![queensHk](queensCHk.png)
+![queensHk](images/queensCHk.png)
 
 **9/28/2018 -- Slight modifications to Project3** Slight modification in the wording pertaining to the copy constructor to avoid confusion. Also some changes to main()
 

@@ -46,6 +46,8 @@ The primary focus of this course is the **design and analysis of algorithms and 
 
 # Announcements:
 
+**10/11/2018** I will send email when Project 3 submission will open on gradescope. Please be ready to submit by the deadline on Tuesday.
+
 **10/10/2018 NO OFFICE HOURS TODAY** I will be available Thursday before class by appointment, if anyone planned to see me today please send me email. Thank you!
 
 **10/10/2018 Project3 Q&A:** If you have not completed Project 3 yet, tomorrow Thursday 10/11 is your chance to have all your questions answered. We will go over Project 3 at the beginning of lecture and make sure you have all the info you need for a successful submission! Don't miss it!!!!

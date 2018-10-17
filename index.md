@@ -136,9 +136,9 @@ x | T, 9/18 | **NO CLASS**
 9 | T, 10/2 | -//-  |  | |
 10 | TH, 10/4 | Stacks | Chapter 6 |  | [Lecture_10](Lecture10.pdf)
 11 | T, 10/9 | Stack Implementations | Chapter 7 | | [Lecture_11](Lecture11.pdf)
-12 | TH, 10/11 | Lists | Chapter 8 |  |  | 
-13 | T, 10/16 | List Implementation | Chapter 9 | **Project_3 DUE**  /Project_4 | |
-14 | TH, 10/18 | -//- | | | | 
+12 | TH, 10/11 | Project 3 discussion |  |  |  | 
+13 | T, 10/16 | Exception Handling and Managed Pointers (light) | C++ Interlude 3 and 4| **Project_3 DUE**  /[Project_4](Project4.pdf) | [Lecture13](Lecture13.pdf)
+14 | TH, 10/18 |Lists| Chapters 8/9 | | | 
 x | T, 10/23 | Midterm Review | |  |  |
 x | TH, 10/25 | **Midterm** |  |  |  |
 15 | T, 10/30 | Algorithm Efficiency | Chapter 10 | | |

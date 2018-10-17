@@ -46,6 +46,8 @@ The primary focus of this course is the **design and analysis of algorithms and 
 
 # Announcements:
 
+**10/16/2018 -- PROJECT 4 IS OUT** I will go over it in class on 10/23, please read it and come ready to ask questions!
+
 **10/16/2018** Everyone who is still **confused about the copy constructor**, **look at slide 51 in the lecture notes Lecture8/9** 
 
 **10/15/2018 Project 3 deadline postponed** to Wednesday 10/17 at midnight. You will receive email when gradescope is ready.

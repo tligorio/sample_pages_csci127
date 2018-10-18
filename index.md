@@ -1,4 +1,4 @@
-**email:** tligorio@hunter.cuny.edu  / csci235.help@gmail.com 
+**email:** tligorio@hunter.cuny.edu  
 
 **Office:** Hunter North 1000-C 
 

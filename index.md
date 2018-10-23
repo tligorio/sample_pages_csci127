@@ -44,6 +44,10 @@ The primary focus of this course is the **design and analysis of algorithms and 
 
 # Announcements:
 
+**10/23/2018 -- Hunter College Career Fair**  *Wednesday, October 24, 11:30-2:00, 3rd floor cafeteria.* Over 65 companies will be present with part time/full time jobs and internship positions. Even if students are not currently looking for a position it is a good idea to attend and meet the friendly recruiters and learn more about the companies for future career planning.
+ 
+http://www.hunter.cuny.edu/studentservices/cds
+
 **10/16/2018 -- PROJECT 4 IS OUT** I will go over it in class on 10/23, please read it and come ready to ask questions!
 
 **10/16/2018** Everyone who is still **confused about the copy constructor**, **look at slide 51 in the lecture notes Lecture8/9** 

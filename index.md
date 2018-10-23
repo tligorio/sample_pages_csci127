@@ -44,7 +44,7 @@ The primary focus of this course is the **design and analysis of algorithms and 
 
 # Announcements:
 
-![opendata](openDataLogo.png)
+![opendata](images/openDataLogo.png)
 **10/23/2018 -- Open Data For All New Yorkers** Come join an informal discussion of the NYC OpenData Project:
 Event: Al Webber (NYC Director of Open Data) + Adrienne Schmoeker (NYC Director of Civic Engagement & Strategy) are visiting Hunter to talk about their work with NYC Open Data.  
 *Date: Wednesday October 24

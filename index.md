@@ -44,6 +44,16 @@ The primary focus of this course is the **design and analysis of algorithms and 
 
 # Announcements:
 
+![opendata](openDataLogo.png)
+**10/23/2018 -- Open Data For All New Yorkers** Come join an informal discussion of the NYC OpenData Project:
+Event: Al Webber (NYC Director of Open Data) + Adrienne Schmoeker (NYC Director of Civic Engagement & Strategy) are visiting Hunter to talk about their work with NYC Open Data.  
+*Date: Wednesday October 24
+Time: 11:10am - 12:25pm
+Location: Hunter East, 12th Floor, Room 1203*
+
+[Let us know if you're attending](https://opendatatalkwithadrienneschmoe.splashthat.com)
+
+
 **10/23/2018 -- Hunter College Career Fair**  *Wednesday, October 24, 11:30-2:00, 3rd floor cafeteria.* Over 65 companies will be present with part time/full time jobs and internship positions. Even if students are not currently looking for a position it is a good idea to attend and meet the friendly recruiters and learn more about the companies for future career planning.
  
 [Visit their website for more info](http://www.hunter.cuny.edu/studentservices/cds)

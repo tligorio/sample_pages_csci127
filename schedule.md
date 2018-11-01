@@ -21,9 +21,9 @@ x | T, 9/18 | **NO CLASS**
 14 | TH, 10/18 |Lists| Chapters 8/9 | |  [Lecture14](Lecture14.pdf)
 x | T, 10/23 | Midterm Review | |  |  |
 x | TH, 10/25 | **Midterm** |  |  |  |
-15 | T, 10/30 | Algorithm Efficiency | Chapter 10 | | |
-16 | TH, 11/1 | Sorting Algorithms and their Efficiency | Chapter 11 |  |
-17 | T, 11/6 | -//- |  | **Project_4 DUE** / Project_5 | 
+15 | T, 10/30 | Midterm Solution and Project 4 review| | | |
+16 | TH, 11/1 | Algorithm Efficiency | Chapter 10 |  |
+17 | T, 11/6 |Searching and Sorting Algorithms and their Efficiency  | Chapter 11 | **Project_4 DUE** / Project_5 | 
 18 | TH, 11/8 | Recursion as a Problem Solving Technique | Chapter 5 |  
 19 | T, 11/13 | Queues and Priority Queues | Chapter 13 |
 20 | TH, 11/15 | Queue Implementation | Chapter 14 | 

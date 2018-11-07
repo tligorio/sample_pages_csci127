@@ -44,6 +44,8 @@ The primary focus of this course is the **design and analysis of algorithms and 
 
 # Announcements:
 
+**11/07/2018 Poject5 IS OUT** you can find it on the tentative schedule. By the way, the midterm solutions have also been up for a while on BlackBoard. 
+
 ![opendata](images/openDataLogo.png)
 **10/23/2018 -- Open Data For All New Yorkers** Come join an informal discussion of the NYC OpenData Project:
 Event: Al Webber (NYC Director of Open Data) + Adrienne Schmoeker (NYC Director of Civic Engagement & Strategy) are visiting Hunter to talk about their work with NYC Open Data.  

@@ -44,8 +44,12 @@ The primary focus of this course is the **design and analysis of algorithms and 
 
 # Announcements:
 
+**11/14/2018** 
+## NO OFFICE HOURS TODAY  
+If you planned to come talk to me today during office hours please email me to make an appointment. Thank you!
+
 **11/13/2018**  
-## CLASS CANCELLED TODAY   
+**CLASS CANCELLED TODAY   
 We will resume regularly on Thursday.
 
 **11/07/2018 Poject5 IS OUT** you can find it on the tentative schedule. By the way, the midterm solutions have also been up for a while on BlackBoard. 

@@ -35,6 +35,6 @@ x | TH, 11/22 | **NO CLASS** | |  |
 25 | TH, 12/6 | -//- |
 26 | T, 12/11 | Final Review | 
 x | TH, 12/13 | **Reading Day,   NO CLASS** | | **Project_6 DUE** |
-x | **TBA** | **FINAL** | 
+x |<span style="color:red"> T, 12/18 </span>  | <span style="color:red"> FINAL </span> | <span style="color:red"> 1:45 - 3:45 </span>  
 
 

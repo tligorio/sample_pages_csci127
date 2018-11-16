@@ -24,9 +24,9 @@ x | TH, 10/25 | **Midterm** |  |  |  |
 15 | T, 10/30 | Midterm Solution and Project 4 review| | | |
 16 | TH, 11/1 | Algorithm Efficiency | Chapter 10 |  |[Lecture16](Lecture16.pdf)
 17 | T, 11/6 |Searching and Sorting Algorithms and their Efficiency  | Chapter 11 | **Project_4 DUE** / [Project_5](Project5.pdf)  | [Lecture17](Lecture17.pdf)
-18 | TH, 11/8 | Recursion as a Problem Solving Technique | Chapter 5 |  
+18 | TH, 11/8 | Recursion as a Problem Solving Technique | Chapter 5 |  [Lecture18](Lecture18.pdf)
 19 | T, 11/13 | -//- |  |
-20 | TH, 11/15 | Queues | Chapter 13| 
+20 | TH, 11/15 | Queues | Chapter 13| [Lecture20](Lecture20.pdf)
 21 | T, 11/20 | Queue Implementation | Chapter 14
 x | TH, 11/22 | **NO CLASS** | |  | 
 22 | T, 11/27 | Trees | Chapter 16 | **Project_5 DUE** / Project_6 | 

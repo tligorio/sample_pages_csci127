@@ -27,7 +27,7 @@ x | TH, 10/25 | **Midterm** |  |  |  |
 18 | TH, 11/8 | Recursion as a Problem Solving Technique | Chapter 5 | | [Lecture18](Lecture18.pdf)
 19 | T, 11/13 | -//- |  |
 20 | TH, 11/15 | Queues | Chapter 13 |  | [Lecture20](Lecture20.pdf)
-21 | T, 11/20 | Queue Implementation | Chapter 14 | | 
+21 | T, 11/20 | Queue Implementation | Chapter 14 | | [Lecture21](Lecture21.pdf)
 x | TH, 11/22 | **NO CLASS** | |  | 
 22 | T, 11/27 | Trees | Chapter 16 | **Project_5 DUE** / Project_6 | 
 23 | TH, 11/29 | -//- | 

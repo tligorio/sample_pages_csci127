@@ -44,6 +44,9 @@ The primary focus of this course is the **design and analysis of algorithms and 
 
 # Announcements:
 
+**11/28/2018**  NO OFFICE HOURS TODAY  
+If you planned to come talk to me today during office hours please email me to make an appointment. Thank you!
+
 ## Final Exam Date: 12/18/2018   
 ##             1:45-3:45
 

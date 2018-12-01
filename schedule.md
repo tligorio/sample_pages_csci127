@@ -29,7 +29,7 @@ x | TH, 10/25 | **Midterm** |  |  |  |
 20 | TH, 11/15 | Queues | Chapter 13 |  | [Lecture20](Lecture20.pdf)
 21 | T, 11/20 | Queue Implementation | Chapter 14 | | [Lecture21](Lecture21.pdf)
 x | TH, 11/22 | **NO CLASS** | |  | 
-22 | T, 11/27 | Trees | Chapter 16 |  | [Lecture22 Incomplete](Lecture22Incomplete.pdf)
+22 | T, 11/27 | Trees | Chapter 16 |  | [Lecture22](Lecture22.pdf)
 23 | TH, 11/29 | -//- | | [Project_6](Project6.pdf)
 24 | T, 12/4 | Tree Implementation | Chapter 16 | 
 25 | TH, 12/6 | -//- |

@@ -30,8 +30,8 @@ x | TH, 10/25 | **Midterm** |  |  |  |
 21 | T, 11/20 | Queue Implementation | Chapter 14 | | [Lecture21](Lecture21.pdf)
 x | TH, 11/22 | **NO CLASS** | |  | 
 22 | T, 11/27 | Trees | Chapter 16 |  | [Lecture22](Lecture22.pdf)
-23 | TH, 11/29 | -//- | | [Project_6 - Optional: no submission](Project6.pdf)
-24 | T, 12/4 | Tree Implementation | Chapter 16 |  | [STL motivation](STL.pdf)
+23 | TH, 11/29 | -//- | | [Project_6 - Optional: no submission](Project6.pdf)| [STL motivation](STL.pdf)
+24 | T, 12/4 | Tree Implementation | Chapter 16 || [Lecture24](Lecture23.pdf)
 25 | TH, 12/6 | -//- |
 26 | T, 12/11 | Final Review |  | **Project 5 DUE**
 x | TH, 12/13 | **Reading Day,   NO CLASS** | |  |

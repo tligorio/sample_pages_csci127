@@ -44,6 +44,8 @@ The primary focus of this course is the **design and analysis of algorithms and 
 
 # Announcements:
 
+**12/12/2018** No office hours today. I am available by appointment tomorrow (12/13), email me if you'd like to make an appointment. Thank you!
+
 **12/4/2018** Project 5 submission is open on Gradescope, it will close (DUE) on **December 11 at 2pm**
 
 **12/1/2018**  Project 6 is out, it is OPTIONAL, there will be NO SUBMISSION for this project

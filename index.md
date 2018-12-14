@@ -44,6 +44,10 @@ The primary focus of this course is the **design and analysis of algorithms and 
 
 # Announcements:
 
+## Final Exam Date: 12/18/2018   
+## Room 201 ( same room as lecture) 1:45-3:45
+
+
 **12/12/2018** No office hours today. I am available by appointment tomorrow (12/13), email me if you'd like to make an appointment. Thank you!
 
 **12/4/2018** Project 5 submission is open on Gradescope, it will close (DUE) on **December 11 at 2pm**
@@ -52,9 +56,6 @@ The primary focus of this course is the **design and analysis of algorithms and 
 
 **11/28/2018**  NO OFFICE HOURS TODAY  
 If you planned to come talk to me today during office hours please email me to make an appointment. Thank you!
-
-## Final Exam Date: 12/18/2018   
-##             1:45-3:45
 
 **11/14/2018**  NO OFFICE HOURS TODAY  
 If you planned to come talk to me today during office hours please email me to make an appointment. Thank you!

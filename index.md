@@ -13,7 +13,7 @@
 **CSCI 127 - Introduction to Computer Science Recitation** 
 
 
-### Fall 2018
+## Fall 2018
 **CSCI 235 - Software Analysis and Design II**   
 **CSCI 127 - Introduction to Computer Science Recitation (Honors)**  
 **CSCI 127 - Introduction to Computer Science Recitation** 

@@ -25,7 +25,7 @@ x | F, 3/15 | **Midterm** |
 18| T, 4/2 | Queue | Chapter 13 | **#3A Due** #3B Posted  | 
 19 | F, 4/5 | Queue Implementation | Chapter 14 | | 
 20 | T, 4/9 |Searching and Sorting Algorithms and their Efficiency  | Chapter 11 | **#3B Due** #4 Posted 
-21 | F, 4/12 | -//- | | **#4 Due**
+21 | F, 4/12 | -//- | | 
 22 | T, 4/16 | Tree | Chapter 15 | **#4 Due** | 
 x | F, 4/19 | **NO CLASS** | |  | 
 x | T, 4/23 | **NO CLASS** | |  | 

@@ -12,29 +12,29 @@ x | T, 2/12 |  **NO CLASS** |  | **#1B Due** #1C Posted |
 6 | F, 2/14 | -//-
 7 | T, 2/19 | Lists| Chapters 8/9 | **1C Due** #2A Posted  |
 8 | F, 2/22 | -//-|  |    | 
-9 | TH, 9/27 | Inheritance  & Polymorphism  | C++ Interlude 2 (Polymorphism) | **#2A Due** #2B Posted|
-9 | T, 10/2 | -//-  |  | |
-10 | TH, 10/4 | Stacks | Chapter 6 |  | [Lecture_10](Lecture10.pdf)
-11 | T, 10/9 | Stack Implementations | Chapter 7 | | [Lecture_11](Lecture11.pdf)
-12 | TH, 10/11 | Project 3 discussion |  |  |  | 
-13 | T, 10/16 | Exception Handling and Managed Pointers (light) | C++ Interlude 3 and 4| **Project_3 DUE**  /[Project_4](Project4.pdf) | [Lecture13](Lecture13.pdf)
-14 | TH, 10/18 |Lists| Chapters 8/9 | |  [Lecture14](Lecture14.pdf)
-x | T, 10/23 | Midterm Review | |  |  |
-x | TH, 10/25 | **Midterm** |  |  |  |
-15 | T, 10/30 | Midterm Solution and Project 4 review| | | |
-16 | TH, 11/1 | Algorithm Efficiency | Chapter 10 |  |[Lecture16](Lecture16.pdf)
-17 | T, 11/6 |Searching and Sorting Algorithms and their Efficiency  | Chapter 11 | **Project_4 DUE** / [Project_5](Project5.pdf)  | [Lecture17](Lecture17.pdf)
-18 | TH, 11/8 | Recursion as a Problem Solving Technique | Chapter 5 | | [Lecture18](Lecture18.pdf)
-19 | T, 11/13 | -//- |  |
-20 | TH, 11/15 | Queues | Chapter 13 |  | [Lecture20](Lecture20.pdf)
-21 | T, 11/20 | Queue Implementation | Chapter 14 | | [Lecture21](Lecture21.pdf)
-x | TH, 11/22 | **NO CLASS** | |  | 
-22 | T, 11/27 | Trees | Chapter 16 |  | [Lecture22](Lecture22.pdf)
-23 | TH, 11/29 | -//- | | [Project_6 - Optional: no submission](Project6.pdf)| [STL motivation](STL.pdf)
-24 | T, 12/4 | Tree Implementation | Chapter 16 || [Lecture24](Lecture23.pdf)
-25 | TH, 12/6 | -//- |
-26 | T, 12/11 | Final Review |  | **Project 5 DUE**
-x | TH, 12/13 | **Reading Day,   NO CLASS** | |  |
-x |<b><span style="color:red"> T, 12/18 </span></b>  | <b><span style="color:red"> FINAL </span></b> | <b><span style="color:red"> 1:45 - 3:45 </span></b>  
+9 | T, 2/26 | Inheritance  & Polymorphism  | C++ Interlude 2 (Polymorphism) | **#2A Due** #2B Posted|
+10 | F, 3/1 | -//-  |  | |
+11 | T, 3/5 | Recursion | Chapter 2 | **#2B Due** #2C Posted | 
+12 | F, 3/8 | More Recursion | Chapter 5 | | 
+13 | T, 3/12 | Midterm Review |  | **#2C Due**  |  | 
+x | F, 3/15 | **Midterm** |
+14 | T, 3/19| Algorithm Efficiency | Chapter 10 |  
+15 | F, 3/22 | Stack | Chapter 6
+16 | T, 3/26 | Stack Implementation | Chapter 7 | #3A Posted
+17 | F, 3/29 | Exception Handling and Managed Pointers (light) | C++ Interlude 3 and 4|  | 
+18| T, 4/2 | Queue | Chapter 13 | **#3A Due** #3B Posted  | 
+19 | F, 4/5 | Queue Implementation | Chapter 14 | | 
+20 | T, 4/9 |Searching and Sorting Algorithms and their Efficiency  | Chapter 11 | **#3B Due** #4 Posted 
+21 | F, 4/12 | -//- | | **#4 Due**
+22 | T, 4/16 | Tree | Chapter 15 | **#4 Due** | 
+x | F, 4/19 | **NO CLASS** | |  | 
+x | T, 4/23 | **NO CLASS** | |  | 
+x | F, 4/26 | **NO CLASS** | |  | 
+23 | T, 4/30 | -//- | | **#5 Posted**
+24 | F, 5/3 | Tree Implementation | Chapter 16 ||
+25 | T, 5/7 | -//- | **#5 Due** #6 Posted
+26 |F, 5/10 |  Additional Topic  |
+27 |T, 5/14 | Final Review |  | **#6 DUE**
+x |<b><span style="color:red"> TBA </span></b>  | <b><span style="color:red"> FINAL EXAM </span></b> | <b><span style="color:red"> 1:45 - 3:45 </span></b>  
 
 

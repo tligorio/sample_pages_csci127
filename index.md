@@ -1,10 +1,8 @@
 **email:** tligorio@hunter.cuny.edu  
 
-**Office:** Hunter North 1000-C 
+**Office:** Hunter North 1000-C (CoSSMO Lab)
 
 **Tel:** (212) 772-5213 (CS Department)
-
-**Office Hours:**  TBA
 
 # Teaching:
 

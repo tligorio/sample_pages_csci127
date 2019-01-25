@@ -37,6 +37,8 @@ Fr - all tutoring in lab B
 
 ## [Tentative Schedule -- Subject to change](Spring2019_schedule.md)  
 
+## [Project Submission Help](gradescoe_help.md)
+
 
 # Announcements:
 

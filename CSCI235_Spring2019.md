@@ -30,10 +30,10 @@ Th - 1:00 - 3:00, 7:00 - 9:00
 Fr - all tutoring in lab B
 
 
-## [Syllabus](CSCI235_Spring2019_Syllabus.pdf)   **-- PLEASE READ THIS CAREFULLY --**
+## [Syllabus](documents/CSCI235_Spring2019_Syllabus.pdf)   **-- PLEASE READ THIS CAREFULLY --**
 
 
-## [Programming Rules](CSCI235_Spring2019_ProgrammingRules.pdf) **-- PLEASE READ THIS CAREFULLY --**
+## [Programming Rules](documents/CSCI235_Spring2019_ProgrammingRules.pdf) **-- PLEASE READ THIS CAREFULLY --**
 
 ## [Tentative Schedule -- Subject to change](Spring2019_schedule.md)  
 

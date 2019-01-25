@@ -9,7 +9,7 @@
 # Teaching:
 
 ## Spring 2019
-**[CSCI 235 - Software Analysis and Design II](https://github.com/tligorio/tligorio.github.io/blob/master/CSCI235_Spring2019.md)**  
+**[CSCI 235 - Software Analysis and Design II](CSCI235_Spring2019.md)**  
 **CSCI 127 - Introduction to Computer Science Recitation** 
 
 

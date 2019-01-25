@@ -1,5 +1,5 @@
 
-## TENTATIVE SCHEDULE for CSCI 235 Fall 2018:
+## TENTATIVE SCHEDULE for CSCI 235 Spring 2019:
 
 LECTURE | DATE | TOPIC | READING | PROJECT | SLIDES | STUDY QUESTIONS |
 ------- | ---- | ----- | -------- | --------- | ------- | ------- |

@@ -23,10 +23,10 @@ Fr - 11:00 - 5:00
 
 **Lab 1001C   
 -- Tutoring available to everyone during 136 labs, be mindful not to disrupt the ongoing lab session!**       
-Mo - 1:00 - 7:15  
-Tu - 2:00 - 4:00 . 
-We - 9:00 - 7:15 . 
-Th - 1:00 - 3:00, 7:00 - 9:00  
+Mo - 1:00 - 7:15    
+Tu - 2:00 - 4:00 .   
+We - 9:00 - 7:15 .   
+Th - 1:00 - 3:00, 7:00 - 9:00    
 Fr - all tutoring in lab B
 
 

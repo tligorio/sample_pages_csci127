@@ -3,7 +3,7 @@
 
 LECTURE | DATE | TOPIC | READING | PROJECT | SLIDES | STUDY QUESTIONS |
 ------- | ---- | ----- | -------- | --------- | ------- | ------- |
-1 | F, 1/24 | Welcome / Intro | **Syllabus, Programming Rules** | | 
+1 | F, 1/24 | Welcome / Intro | **Syllabus, Programming Rules** | | [Lecture 1](Lectures/Lecture_1_Intro.pdf)
 2 | T,  1/29 | Abstraction / OOP | Chapter 1, Appendix B   | #1A Posted | 
 3 | F, 2/1 | Abstract Data Types / Templates /Intro to Inheritance | C++ Interlude-1 | | 
 4 | T, 2/5 | Array-Based Implementation | Chapter 3  |  **#1A Due** #1B Posted|  

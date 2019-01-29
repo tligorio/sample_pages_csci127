@@ -4,7 +4,7 @@
 LECTURE | DATE | TOPIC | READING | PROJECT | SLIDES | STUDY QUESTIONS |
 ------- | ---- | ----- | -------- | --------- | ------- | ------- |
 1 | F, 1/24 | Welcome / Intro | **Syllabus, Programming Rules** | | [Lecture 1](Lectures/Lecture_1_Intro.pdf)
-2 | T,  1/29 | Abstraction / OOP | Chapter 1, Appendix B   | [#1A Posted](documents/Project_1A.pdf) | | [OPP_SQ](documents/OPP_studyQ.pdf)
+2 | T,  1/29 | Abstraction / OOP | Chapter 1, Appendix B   | [#1A Posted](documents/Project_1A.pdf) | [Lecture 2](Lectures/Lecture2_OOP.pdf)| [OPP_SQ](documents/OPP_studyQ.pdf)
 3 | F, 2/1 | Abstract Data Types / Templates /Intro to Inheritance | C++ Interlude-1 | | 
 4 | T, 2/5 | Array-Based Implementation | Chapter 3  |  **#1A Due** #1B Posted|  
 5 | F, 2/8 | Link-based Implementation  | C++ Interlude 2 (Pointers), [pointers and references tutorial](http://www.ntu.edu.sg/home/ehchua/programming/cpp/cp4_pointerreference.html),  Chapter 4| |

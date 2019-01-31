@@ -41,4 +41,6 @@ Fr - all tutoring in lab B
 
 # Announcements:
 
+![CunyTechPrep][images/Hunter-College-Flyer.jpg]
+
 **Welcome to CSCI 235, I hope we will have a fun and productive semester together!!!** 

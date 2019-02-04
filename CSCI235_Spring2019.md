@@ -29,17 +29,20 @@ Th - 1:00 - 3:00, 7:00 - 9:00
 Fr - all tutoring in lab B
 
 
-## [Syllabus](documents/CSCI235_Spring2019_Syllabus.pdf)   **-- PLEASE READ THIS CAREFULLY --**
+## Resources:
+
+### [Syllabus](documents/CSCI235_Spring2019_Syllabus.pdf)   **-- PLEASE READ THIS CAREFULLY --**
 
 
-## [Programming Rules](documents/CSCI235_Spring2019_ProgrammingRules.pdf) **-- PLEASE READ THIS CAREFULLY --**
+### [Programming Rules](documents/CSCI235_Spring2019_ProgrammingRules.pdf) **-- PLEASE READ THIS CAREFULLY --**
 
-## [Tentative Schedule -- Subject to change](Spring2019_schedule.md)  
+### [Tentative Schedule -- Subject to change](Spring2019_schedule.md)  
 
-## [Project Submission Help](gradescope_help.md)
+### [Project Submission Help](gradescope_help.md)
 
+### [Installing Windows Subsystem for Linux by -your classmate- Owen Kunhardt](documents/Installing_WSL.pdf)
 
-# Announcements:
+## Announcements:
 
 ![CunyTechPrep](images/Hunter-College-Flyer.jpg)
 

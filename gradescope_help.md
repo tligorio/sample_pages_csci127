@@ -1,7 +1,8 @@
 
 # Gradescope Help
 
-Gradescope will allow multiple submissions until the project deadline. You are welcome to resubmit before the deadline if you do not get full credit, but you cannot rely on Gradescope to debug your code. Your code must run free of errors on the Linux lab machines at Hunter before you submit to Gradescope. **You are responsible for ensuring your submission goes through before the deadline.** I strongly encourage you to submit early to avoid/resolve issues. The UTAs  are available in the labs to help and you may ask questions on the blackboard forum, but you cannot expect to get help minutes before the project deadline.
+Gradescope will allow multiple submissions until the project deadline. You are welcome to resubmit before the deadline if you do not get full credit, but you cannot rely on Gradescope to debug your code. Your code must run free of errors on the Linux lab machines at Hunter before you submit to Gradescope.  
+**You are responsible for ensuring your submission goes through before the deadline.** I strongly encourage you to submit early to allow yourself the time to resolve issues. The UTAs  are available in the labs to help and you may ask questions on the blackboard forum, but you cannot expect to get help minutes before the project deadline.
 
 Gradescope doesn't always provide useful compilation messages when it fails to execute. Here are some things you should check:
   
@@ -18,6 +19,11 @@ Getting this message upon submission? It is not a problem with the autograder bu
 
 - Did you initialize all your variables? C++ requires that you initialize all variables else you may get unexcpected behavior.
 
-- Are you using print statements (cout) for testing? Make sure to delete these before submitting, especially if they are inside of a loop.
+- Are you using print statements (std::cout) for testing? Make sure to delete these before submitting, especially if they are inside of a loop.
 
-If you tried all of the above and nothing worked, you may post a message on the duscussion board or seek help from our TAs in the labs (see the lab schedule on the course main page).
+## "No such file or directory" error:
+If you get this error on one single test while all the other tests are getting full credit, please try resubmitting a few times. There is sometime a timing issue between test subprocesses.
+
+If you get "No such file or directory" error on all the tests or on all the tests for a particular class (you are failing all the tests), check the names and extension of your files and of your #include statements. These should match exactly what is requested on the project specification. Note that in this course we are using .hpp extension for the interface files, make sure you #include "ClassName.hpp"
+
+**If you tried all of the above and nothing worked** you may post a message on the duscussion board or seek help from our TAs in the labs (see the lab schedule on the course main page).

@@ -44,6 +44,8 @@ Fr - all tutoring in lab B
 
 ## Announcements:
 
+**2/5/2019** Project 1B is posted on the course schedule. We will finish today's lecture on Friday and talk about inheritance then. 
+
 ![CunyTechPrep](images/Hunter-College-Flyer.jpg)
 
 **Welcome to CSCI 235, I hope we will have a fun and productive semester together!!!** 

@@ -9,7 +9,7 @@ x | F, 2/1 | **Canceled** |
 3 | T, 2/5 | Abstract Data Types / Templates /Intro to Inheritance | C++ Interlude-1 | **#1A Due** #1B Posted| 
 4 | F, 2/8 | Array-Based Implementation | Chapter 3  |  |  
 x | T, 2/12 |  **NO CLASS** |  |  | 
-5 | F, 2/14 | Link-based Implementation  | C++ Interlude 2 (Pointers), [pointers and references tutorial](http://www.ntu.edu.sg/home/ehchua/programming/cpp/cp4_pointerreference.html),  Chapter 4| **#1B Due** #1C Posted|
+5 | F, 2/15 | Link-based Implementation  | C++ Interlude 2 (Pointers), [pointers and references tutorial](http://www.ntu.edu.sg/home/ehchua/programming/cpp/cp4_pointerreference.html),  Chapter 4| **#1B Due** #1C Posted|
 6 | T, 2/19 | -//-
 7 | F, 2/22 | Lists| Chapters 8/9 | **1C Due** #2A Posted  |
 8 | T, 2/26 | -//-|  |    | 

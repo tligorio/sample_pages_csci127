@@ -44,6 +44,12 @@ Fr - all tutoring in lab B
 
 ## Announcements:
 
+**2/7/2019 Changes to Project1B subission**   
+I noticed that many of you have been trying to submit individual classes as you incrementally implement Project1B. To support that, I have decided to **split the submission of Project1B into 3, one submission per class**. I also now want you to **submit both the Interface and the Implementation files for each class**.
+I have updated the project specification to reflect that, and I am about to open the 3-part submission on Gradescope.
+For those of you who have already successfully completed the project **WONDERFUL JOB!!!!** I must however ask that you re-submit your files split across the 3 submissions, and please include the .hpp files this time.
+By the end of the day I will delete the old single-submission on Gradescope.
+
 **2/5/2019** Project 1B is posted on the course schedule. We will finish today's lecture on Friday and talk about inheritance then. 
 
 ![CunyTechPrep](images/Hunter-College-Flyer.jpg)

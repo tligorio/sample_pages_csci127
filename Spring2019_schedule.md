@@ -9,11 +9,11 @@ x | F, 2/1 | **Canceled** |
 3 | T, 2/5 | Abstract Data Types / Templates /Intro to Inheritance | C++ Interlude-1 | **#1A Due** [#1B Posted](documents/Project_1B.pdf)| [Lecture 3](Lectures/Lecture3_ADT&Templates.pdf) |  [ADT_IN_SQ](documents/ADT_InheritanceQ.pdf)
 4 | F, 2/8 | Array-Based Implementation | Chapter 3  |  |  [Lecture 4](Lectures/Lecture4_ArrayBag.pdf) | [ArrayBag_SQ](documents/ArrayBag_studyQ.pdf)
 x | T, 2/12 |  **NO CLASS** |  |  | 
-5 | F, 2/15 | Link-based Implementation  | C++ Interlude 2 (Pointers), [pointers and references tutorial](http://www.ntu.edu.sg/home/ehchua/programming/cpp/cp4_pointerreference.html),  Chapter 4| **#1B Due** #1C Posted|
+5 | F, 2/15 | Link-based Implementation  | C++ Interlude 2 (Pointers), [pointers and references tutorial](http://www.ntu.edu.sg/home/ehchua/programming/cpp/cp4_pointerreference.html),  Chapter 4| **#1B Due** [#1C Posted](documents/Project_1C.pdf)|
 6 | T, 2/19 | -//-
 7 | F, 2/22 | Lists| Chapters 8/9 | **1C Due** #2A Posted  |
 8 | T, 2/26 | -//-|  |    | 
-9 | F, 3/1 | Inheritance  & Polymorphism  | C++ Interlude 2 (Polymorphism) | **#2A Due** [#1C Posted](documents/Project_1C.pdf)|
+9 | F, 3/1 | Inheritance  & Polymorphism  | C++ Interlude 2 (Polymorphism) | **#2A Due** #2B Posted|
 10 | T, 3/5 | -//-  |  | |
 11 | F, 3/8 | Recursion | Chapter 2 | **#2B Due** #2C Posted | 
 12 | T, 3/12 | More Recursion | Chapter 5 | | 

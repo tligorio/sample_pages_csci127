@@ -11,7 +11,7 @@ x | F, 2/1 | **Canceled** |
 x | T, 2/12 |  **NO CLASS** |  |  | 
 5 | F, 2/15 | Link-based Implementation  | C++ Interlude 2 (Pointers), [pointers and references tutorial](http://www.ntu.edu.sg/home/ehchua/programming/cpp/cp4_pointerreference.html),  Chapter 4| **#1B Due** [#1C Posted](documents/Project_1C.pdf)| [Lecture5](Lectures/Lecture5_LinkedBag.pdf) | [LinkedChain_SQ](documents/LinkedChain_studyQ.pdf)
 6 | T, 2/19 | -//-
-7 | F, 2/22 | Lists| Chapters 8/9 | **1C Due** [#2A Posted](documents/Project_2A.pdf)  |
+7 | F, 2/22 | Lists| Chapters 8/9 | **1C Due** [#2A Posted](documents/Project_2A.pdf)  |[Lecture7](Lectures/Lecture7_Lists.pdf)
 8 | T, 2/26 | -//-|  |    | 
 9 | F, 3/1 | Inheritance  & Polymorphism  | C++ Interlude 2 (Polymorphism) | **#2A Due** [#2B Posted](documents/Project_2B.pdf)|
 10 | T, 3/5 | -//-  |  | |

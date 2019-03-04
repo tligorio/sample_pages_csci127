@@ -34,7 +34,7 @@ x | F, 4/26 | **NO CLASS** | |  |
 24 | F, 5/3 | Tree Implementation | Chapter 16 ||
 25 | T, 5/7 | -//- |  | **#5 Due** #6 Posted
 26 |F, 5/10 |  Additional Topic  |
-27 |T, 5/14 | Final Review |  | **#6 DUE**
+27 |T, 5/14 | -//- |  | **#6 DUE**
 x |<b><span style="color:red"> TBA </span></b>  | <b><span style="color:red"> FINAL EXAM </span></b> |
 
 

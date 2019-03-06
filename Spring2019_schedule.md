@@ -13,7 +13,7 @@ x | T, 2/12 |  **NO CLASS** |  |  |
 6 | T, 2/19 | -//-
 7 | F, 2/22 | Lists| Chapters 8/9 | **1C Due** [#2A Posted](documents/Project_2A.pdf)  |[Lecture7](Lectures/Lecture7_Lists.pdf) | [List_SQ](documents/List_studyQ.pdf)
 8 | T, 2/26 | -//-|  |    | 
-9 | F, 3/1 | Inheritance  & Polymorphism  | C++ Interlude 2 (Polymorphism) | **#2A Due** [#2B Posted](documents/Project_2B.pdf)| [Lecture9](Lectures/Lecture9_Polymorphism.pdf)
+9 | F, 3/1 | Inheritance  & Polymorphism  | C++ Interlude 2 (Polymorphism) | **#2A Due** [#2B Posted](documents/Project_2B.pdf)| [Lecture9](Lectures/Lecture9_Polymorphism.pdf) | [Polymorphism_SQ](documents/Polymorphism_studyQ.pdf)
 10 | T, 3/5 | -//-  |  | |
 11 | F, 3/8 | Recursion | Chapter 2 | **#2B Due** #2C Posted | 
 12 | T, 3/12 | More Recursion | Chapter 5 | | 

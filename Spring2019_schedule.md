@@ -15,7 +15,7 @@ x | T, 2/12 |  **NO CLASS** |  |  |
 8 | T, 2/26 | -//-|  |    | 
 9 | F, 3/1 | Inheritance  & Polymorphism  | C++ Interlude 2 (Polymorphism) | **#2A Due** [#2B Posted](documents/Project_2B.pdf)| [Lecture9](Lectures/Lecture9_Polymorphism.pdf) | [Polymorphism_SQ](documents/Polymorphism_studyQ.pdf)
 10 | T, 3/5 | -//-  |  | |
-11 | F, 3/8 | Recursion | Chapter 2 | **#2B Due** #2C Posted | 
+11 | F, 3/8 | Recursion | Chapter 2 | **#2B Due** [#2C Posted](documents/Project_2C.pdf)| 
 12 | T, 3/12 | More Recursion | Chapter 5 | | 
 13 | F, 3/15 | Midterm Review |  | **#2C Due**  |  | 
 x | T, 3/19| **Midterm** |

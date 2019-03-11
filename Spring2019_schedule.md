@@ -20,21 +20,21 @@ x | T, 2/12 |  **NO CLASS** |  |  |
 13 | F, 3/15 | Algorithm Efficiency | Chapter 10 | 
 14 | T, 3/19 | Midterm Review |  | **#2C Due**  |  | 
 x | F, 3/22| **Midterm** | 
-15 | T, 3/26 | Stack | Chapter 6 | #3A Posted
-16 | F, 3/29 | Stack Implementation | Chapter 7 |
-17| T, 4/2 | Exception Handling and Managed Pointers (light) | C++ Interlude 3 and 4|  **#3A Due** #3B Posted  | 
-18 | F, 4/5 | Queue | Chapter 13 | | 
-19 | T, 4/9 | Queue Implementation | Chapter 14 | **#3B Due** #4 Posted | 
-21 | F, 4/12 | Searching and Sorting Algorithms and their Efficiency  | Chapter 11 | 
-22 | T, 4/16 | -//- | |  **#4 Due** 
-x | F, 4/19 | **NO CLASS** | |  | 
+15 | T, 3/26 | Stack | Chapter 6 | 
+16 | F, 3/29 | Stack Implementation | Chapter 7 |#3A Posted
+17| T, 4/2 | Exception Handling and Managed Pointers (light) | C++ Interlude 3 and 4|  | 
+18 | F, 4/5 | Queue | Chapter 13 | **#3A Due** #3B Posted  | 
+19 | T, 4/9 | Queue Implementation | Chapter 14 | | 
+21 | F, 4/12 | Searching and Sorting Algorithms and their Efficiency  | Chapter 11 |  **#3B Due** #4 Posted
+22 | T, 4/16 | -//- | | 
+x | F, 4/19 | **NO CLASS** | |   **#4 Due** | 
 x | T, 4/23 | **NO CLASS** | |  | 
 x | F, 4/26 | **NO CLASS** | |  | 
-23 | T, 4/30 | Tree | Chapter 15 | **#5 Posted**| 
-24 | F, 5/3 | Tree Implementation | Chapter 16 ||
-25 | T, 5/7 | -//- |  | **#5 Due** #6 Posted
-26 |F, 5/10 |  Additional Topic  |
-27 |T, 5/14 | -//- |  | **#6 DUE**
-x |<b><span style="color:red"> TBA </span></b>  | <b><span style="color:red"> FINAL EXAM </span></b> |
+23 | T, 4/30 | Tree | Chapter 15 | | 
+24 | F, 5/3 | Tree Implementation | Chapter 16 |**#5 Posted**|
+25 | T, 5/7 | -//- |  |
+26 |F, 5/10 |  Additional Topic  | |**#5 Due** #6 Posted
+27 |T, 5/14 | -//- |  |
+x |<b><span style="color:red"> TBA </span></b>  | <b><span style="color:red"> FINAL EXAM </span></b> | |**#6 DUE**
 
 

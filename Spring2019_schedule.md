@@ -18,8 +18,8 @@ x | T, 2/12 |  **NO CLASS** |  |  |
 11 | F, 3/8 | Recursion | Chapter 2 | **#2B Due** [#2C Posted](documents/Project_2C.pdf)| 
 12 | T, 3/12 | More Recursion | Chapter 5 | | 
 13 | F, 3/15 | Algorithm Efficiency | Chapter 10 | 
-14 | F, 3/19 | Midterm Review |  | **#2C Due**  |  | 
-x | T, 3/22| **Midterm** | 
+14 | T, 3/19 | Midterm Review |  | **#2C Due**  |  | 
+x | F, 3/22| **Midterm** | 
 15 | T, 3/26 | Stack | Chapter 6 | #3A Posted
 16 | F, 3/29 | Stack Implementation | Chapter 7 |
 17| T, 4/2 | Exception Handling and Managed Pointers (light) | C++ Interlude 3 and 4|  **#3A Due** #3B Posted  | 

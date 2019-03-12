@@ -17,8 +17,8 @@ x | T, 2/12 |  **NO CLASS** |  |  |
 10 | T, 3/5 | -//-  |  | |
 11 | F, 3/8 | Recursion | Chapter 2 | **#2B Due** [#2C Posted](documents/Project_2C.pdf)| [Lecture10](Lectures/Lecture10_Recursion.pdf)
 12 | T, 3/12 | More Recursion | Chapter 5 | | 
-13 | F, 3/15 | Algorithm Efficiency | Chapter 10 | 
-14 | T, 3/19 | Midterm Review |  | **#2C Due**  |  | 
+13 | F, 3/15 | Algorithm Efficiency | Chapter 10 | **#2C Due** 
+14 | T, 3/19 | Midterm Review |  |  |  | 
 x | F, 3/22| **Midterm** | 
 15 | T, 3/26 | Stack | Chapter 6 | 
 16 | F, 3/29 | Stack Implementation | Chapter 7 |#3A Posted

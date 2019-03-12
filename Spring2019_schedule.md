@@ -21,7 +21,7 @@ x | T, 2/12 |  **NO CLASS** |  |  |
 14 | T, 3/19 | Midterm Review |  |  |  | 
 x | F, 3/22| **Midterm** | 
 15 | T, 3/26 | Stack | Chapter 6 | 
-16 | F, 3/29 | Stack Implementation | Chapter 7 |#3A Posted
+16 | F, 3/29 | Stack Implementation | Chapter 7 | #3A Posted
 17| T, 4/2 | Exception Handling and Managed Pointers (light) | C++ Interlude 3 and 4|  | 
 18 | F, 4/5 | Queue | Chapter 13 | **#3A Due** #3B Posted  | 
 19 | T, 4/9 | Queue Implementation | Chapter 14 | | 

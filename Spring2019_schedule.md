@@ -35,7 +35,7 @@ x | F, 4/26 | **NO CLASS** | |  |
 25 | T, 5/7 | -//- |  |
 26 |F, 5/10 |  Additional Topic  | |**#5 Due** #6 Posted (optional)
 27 |T, 5/14 | -//- |  |
-x | F, 5/17 |  | |  **#6 DUE**
+x | F, 5/17 |  | |  **#6 DUE (optional)**
 x |<b><span style="color:red"> M, 5/20 </span></b>  | <b><span style="color:red">  9:00-11:00  </span></b> | <b><span style="color:red"> FINAL EXAM </span></b> | |
 
 

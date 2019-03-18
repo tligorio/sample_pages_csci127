@@ -42,6 +42,10 @@ Fr - all tutoring in lab B
 
 ### [Installing Windows Subsystem for Linux by -your classmate- Owen Kunhardt](documents/Installing_WSL.pdf)
 
+### [A tutorial by Prof. Stewart Weiss on Separate Compilation](http://www.compsci.hunter.cuny.edu/~sweiss/resources/separateCompilation.pdf)
+
+### [A tutorial by Prof. Stewart Weiss on File I/O in C++](http://www.compsci.hunter.cuny.edu/~sweiss/resources/fileIO.pdf)
+
 ## Announcements:
 
 **2/7/2019 Changes to Project1B subission**   

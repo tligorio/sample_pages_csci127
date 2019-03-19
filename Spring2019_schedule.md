@@ -17,21 +17,21 @@ x | T, 2/12 |  **NO CLASS** |  |  |
 10 | T, 3/5 | -//-  |  | |
 11 | F, 3/8 | Recursion | Chapter 2 | **#2B Due** [#2C Posted](documents/Project_2C.pdf)| [Lecture11](Lectures/Lecture10_Recursion.pdf)|  [Recursion_SQ](documents/Recursion_studyQ.pdf)
 12 | T, 3/12 | More Recursion | Chapter 5 | |  [Lecture12](Lectures/Lecture11_MoreRecursion.pdf)
-13 | F, 3/15 | Exception Handling and Managed Pointers (light) | C++ Interlude 3 and 4| **#2C Due**  | 
-14 | T, 3/19 | Midterm Review |  |  |  | 
+13 | F, 3/15 | -//- | | **#2C Due**  | 
+14 | T, 3/19 | Midterm Review |  |  |  | [Midterm Review](Lectures/MidtermReview.pdf)
 x | F, 3/22| **Midterm** | 
 15 | T, 3/26 | Algorithm Efficiency | Chapter 10 | 
 16 | F, 3/29 |Searching and Sorting Algorithms and their Efficiency  | Chapter 11 | #3A Posted
 17| T, 4/2 | -//- | | 
 18 | F, 4/5 |Stack | Chapter 6 | **#3A Due** /#3B Posted 
-19 | T, 4/9 | Stack Implementation | Chapter 7 | 
+19 | T, 4/9 | Stack Implementation + Exception Handling  | Chapter 7 + C++ Interlude 3 | 
 21 | F, 4/12 | Queue | Chapter 13 | **#3B Due** /#4 Posted | 
 22 | T, 4/16 |Queue Implementation | Chapter 14 | |   
 x | F, 4/19 | **NO CLASS** | |   **#4 Due** | 
 x | T, 4/23 | **NO CLASS** | |  | 
 x | F, 4/26 | **NO CLASS** | |  | 
 23 | T, 4/30 | Tree | Chapter 15 | | 
-24 | F, 5/3 | Tree Implementation | Chapter 16 |**#5 Posted**|
+24 | F, 5/3 | Tree Implementation + Managed Pointers| Chapter 16 + C++ Interlude 4 |**#5 Posted**|
 25 | T, 5/7 | -//- |  |
 26 |F, 5/10 |  Additional Topic  | |**#5 Due** #6 Posted (optional)
 27 |T, 5/14 | -//- |  |

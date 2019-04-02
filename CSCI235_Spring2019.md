@@ -1,4 +1,4 @@
-# Software Analysis and Design II 
+# Software Design and Analysis II 
 ## (CSCI 235) Spring 2019  
 ## Hunter College of The City University of New York
 

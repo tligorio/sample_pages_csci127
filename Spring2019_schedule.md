@@ -21,7 +21,7 @@ x | T, 2/12 |  **NO CLASS** |  |  |
 14 | T, 3/19 | Midterm Review |  |  |  | [Midterm Review](Lectures/MidtermReview.pdf)
 x | F, 3/22| **Midterm** | 
 15 | T, 3/26 | Algorithm Efficiency | Chapter 10 | | [Lecture15](Lectures/Lecture15_AlgoEfficiency.pdf)
-16 | F, 3/29 |Searching and Sorting Algorithms and their Efficiency  | Chapter 11 | [#3A Posted](documents/Project_3A.pdf)
+16 | F, 3/29 |Searching and Sorting Algorithms and their Efficiency  | Chapter 11 | [#3A Posted](documents/Project_3A.pdf)|[Lecture16](Lectures/Lecture16_SearchingSorting.pdf)
 17| T, 4/2 | -//- | | 
 18 | F, 4/5 |Stack | Chapter 6 | **#3A Due** /#3B Posted 
 19 | T, 4/9 | Stack Implementation + Exception Handling  | Chapter 7 + C++ Interlude 3 | 

@@ -30,12 +30,11 @@ x | F, 3/22| **Midterm** |
 x | F, 4/19 | **NO CLASS** | |   **#4 Due** | 
 x | T, 4/23 | **NO CLASS** | |  | 
 x | F, 4/26 | **NO CLASS** | |  | 
-23 | T, 4/30 | Tree | Chapter 15 | | 
-24 | F, 5/3 | Tree Implementation + Managed Pointers| Chapter 16 + C++ Interlude 4 |**#5 Posted**|
-25 | T, 5/7 | -//- |  |
-26 |F, 5/10 |  Additional Topic  | |**#5 Due** #6 Posted (optional)
-27 |T, 5/14 | -//- |  |
-x | F, 5/17 |  | |  **#6 DUE (optional)**
+23 | T, 4/30 | Tree | Chapter 15 |**#5 Posted** | 
+24 | F, 5/3 | Tree Implementation + Managed Pointers| Chapter 16 + C++ Interlude 4 ||
+25 | T, 5/7 | -//- |  |**#5 Due** #6 Posted (optional)
+26 |F, 5/10 |  Additional Topic  | |
+27 |T, 5/14 | -//- |  |  **#6 DUE (optional)**
 x |<b><span style="color:red"> M, 5/20 </span></b>  | <b><span style="color:red">  9:00-11:00  </span></b> | <b><span style="color:red"> FINAL EXAM </span></b> | |
 
 

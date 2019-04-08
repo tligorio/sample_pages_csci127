@@ -23,7 +23,7 @@ x | F, 3/22| **Midterm** |
 15 | T, 3/26 | Algorithm Efficiency | Chapter 10 | | [Lecture15](Lectures/Lecture15_AlgoEfficiency.pdf)|[AlgoEfficiency_SQ](documents/AlgoEff_studyQ.pdf)
 16 | F, 3/29 |Searching and Sorting Algorithms and their Efficiency  | Chapter 11 | [#3A Posted](documents/Project_3A.pdf)|[Lecture16](Lectures/Lecture16_SearchingSorting.pdf)|[Sorting_SQ](documents/Sorting_studyQ.pdf)
 17| T, 4/2 | -//- | | 
-18 | F, 4/5 |Stack | Chapter 6 | **#3A Due** /[#3B Posted](documents/Project_3B.pdf)
+18 | F, 4/5 |Stack | Chapter 6 | **#3A Due** /[#3B Posted](documents/Project_3B.pdf)|[Lecture17](Lectures/Lecture17_Stack.pdf)
 19 | T, 4/9 | Stack Implementation + Exception Handling  | Chapter 7 + C++ Interlude 3 | 
 21 | F, 4/12 | Queue | Chapter 13 | **#3B Due** /#4 Posted | 
 22 | T, 4/16 |Queue Implementation | Chapter 14 | |   

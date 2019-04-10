@@ -7,11 +7,11 @@
 # Teaching:
 
 ## Spring 2019
-**[CSCI 235 - Software Analysis and Design II](CSCI235_Spring2019.md)**  
+**[CSCI 235 - Software Design and Analysis II](CSCI235_Spring2019.md)**  
 **CSCI 127 - Introduction to Computer Science Recitation** 
 
 
 ## Fall 2018
-**CSCI 235 - Software Analysis and Design II**   
+**CSCI 235 - Software Design and Analysis II**   
 **CSCI 127 - Introduction to Computer Science Recitation (Honors)**  
 **CSCI 127 - Introduction to Computer Science Recitation** 

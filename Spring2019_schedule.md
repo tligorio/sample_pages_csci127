@@ -25,7 +25,7 @@ x | F, 3/22| **Midterm** |
 17| T, 4/2 | -//- | | 
 18 | F, 4/5 |Stack | Chapter 6 | **#3A Due** /[#3B Posted](documents/Project_3B.pdf)|[Lecture17](Lectures/Lecture17_Stack.pdf)
 19 | T, 4/9 | Stack Implementation + Exception Handling  | Chapter 7 + C++ Interlude 3 |  | [Lecture18](Lectures/Lecture18_Stack_Impl.pdf)
-21 | F, 4/12 | Queue | Chapter 13 | **#3B Due** /#4 Posted | 
+21 | F, 4/12 | Queue | Chapter 13 | **#3B Due** /[#4 Posted](documents/Project_4.pdf) | 
 22 | T, 4/16 |Queue Implementation | Chapter 14 | |   
 x | F, 4/19 | **NO CLASS** | |   **#4 Due** | 
 x | T, 4/23 | **NO CLASS** | |  | 

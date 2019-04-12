@@ -10,7 +10,7 @@ The primary focus of this course is the **design and analysis of algorithms and 
 **Tel:** (212) 772-5213 (CS Department)
 
 **Office Hours:** Friday 12-2pm Room 1001-A Hunter North **(note this is NOT my office)** or by appointment.  
-**Note:** Office hours will be subject to change and cancellation, please check the annoucements on this page before visiting.
+**Note:** Office hours will be subject to change and cancellation, please check the announcements on this page before visiting.
   
   
 ### UTA tutoring: 

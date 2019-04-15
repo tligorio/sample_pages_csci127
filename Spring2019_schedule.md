@@ -23,18 +23,18 @@ x | F, 3/22| **Midterm** |
 15 | T, 3/26 | Algorithm Efficiency | Chapter 10 | | [Lecture15](Lectures/Lecture15_AlgoEfficiency.pdf)|[AlgoEfficiency_SQ](documents/AlgoEff_studyQ.pdf)
 16 | F, 3/29 |Searching and Sorting Algorithms and their Efficiency  | Chapter 11 | [#3A Posted](documents/Project_3A.pdf)|[Lecture16](Lectures/Lecture16_SearchingSorting.pdf)|[Sorting_SQ](documents/Sorting_studyQ.pdf)
 17| T, 4/2 | -//- | | 
-18 | F, 4/5 |Stack | Chapter 6 | **#3A Due** /[#3B Posted](documents/Project_3B.pdf)|[Lecture17](Lectures/Lecture17_Stack.pdf)
-19 | T, 4/9 | Stack Implementation + Exception Handling  | Chapter 7 + C++ Interlude 3 |  | [Lecture18](Lectures/Lecture18_Stack_Impl.pdf)
-21 | F, 4/12 | Queue | Chapter 13 | **#3B Due** /[#4 Posted](documents/Project_4.pdf) |[Exceptions](Lectures/Lecture19_ExceptionHandlng.pdf) [Lecture19](Lectures/Lecture19_Queue.pdf)
-22 | T, 4/16 |Queue Implementation | Chapter 14 | |   
+18 | F, 4/5 |Stack | Chapter 6 | **#3A Due** /[#3B Posted](documents/Project_3B.pdf)|[Lecture18](Lectures/Lecture17_Stack.pdf)
+19 | T, 4/9 | Stack Implementation + Exception Handling  | Chapter 7 + C++ Interlude 3 |  | [Lecture19](Lectures/Lecture18_Stack_Impl.pdf)
+20 | F, 4/12 | Queue | Chapter 13 | **#3B Due** /[#4 Posted](documents/Project_4.pdf) |[Exceptions](Lectures/Lecture19_ExceptionHandlng.pdf) [Lecture19](Lectures/Lecture19_Queue.pdf)
+21 | T, 4/16 |Queue Implementation | Chapter 14 | |   
 x | F, 4/19 | **NO CLASS** | |   **#4 Due** | 
 x | T, 4/23 | **NO CLASS** | |  | 
 x | F, 4/26 | **NO CLASS** | |  | 
-23 | T, 4/30 | Tree | Chapter 15 |**#5 Posted** | 
-24 | F, 5/3 | Tree Implementation + Managed Pointers| Chapter 16 + C++ Interlude 4 ||
-25 | T, 5/7 | -//- |  |**#5 Due** #6 Posted (optional)
-26 |F, 5/10 |  Additional Topic  | |
-27 |T, 5/14 | -//- |  |  **#6 DUE (optional)**
+22 | T, 4/30 | Tree | Chapter 15 |**#5 Posted** | 
+23 | F, 5/3 | Tree Implementation + Managed Pointers| Chapter 16 + C++ Interlude 4 ||
+24 | T, 5/7 | -//- |  |**#5 Due** #6 Posted (optional)
+25 |F, 5/10 |  Additional Topic  | |
+26 |T, 5/14 | -//- |  |  **#6 DUE (optional)**
 x |<b><span style="color:red"> M, 5/20 </span></b>  | <b><span style="color:red">  9:00-11:00  </span></b> | <b><span style="color:red"> FINAL EXAM </span></b> | |
 
 

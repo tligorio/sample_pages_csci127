@@ -28,7 +28,7 @@ x | M, 6/24| Algorithm Efficiency | Chapter 10 | | |[AlgoEfficiency_SQ](document
 X | TH, 7/4 | **COLLEGE CLOSED** |
 21 | M, 7/8 |  Tree Implementation | Chapter 16 | **#5 DUE**|
 22 | T, 7/9 | **Mock Final Exam** |
-23 |<b><span style="color:red">  W, 7/10 </span></b> | <b><span style="color:red">  9:00-11:00  </span></b> | <b><span style="color:red"> FINAL EXAM </span></b> | |
+23 |<b><span style="color:red">  W, 7/10 </span></b> | | <b><span style="color:red"> FINAL EXAM </span></b> | |
 
 
 

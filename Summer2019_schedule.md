@@ -17,8 +17,8 @@ LECTURE | DATE | TOPIC | READING | PROJECT | SLIDES | STUDY QUESTIONS |
 11 | M, 6/17 | Recursion | Chapter 2 | | |  [Recursion_SQ](documents/Recursion_studyQ.pdf)
 12 | T, 6/18 | More Recursion | Chapter 5 | |  
 13 | W, 6/19 | Midterm Review| |  | [Midterm Review](Lectures/MidtermReview.pdf)
-14 | TH, 6/20 |**Midterm**  |  | **#3 DUE** #4 posted |  |  | 
-x | M, 6/24| Algorithm Efficiency | Chapter 10 | | |[AlgoEfficiency_SQ](documents/AlgoEff_studyQ.pdf)
+X | TH, 6/20 |**Midterm**  |  | **#3 DUE** #4 posted |  |  | 
+14 | M, 6/24| Algorithm Efficiency | Chapter 10 | | |[AlgoEfficiency_SQ](documents/AlgoEff_studyQ.pdf)
 15 | T, 6/25 | Searching and Sorting Algorithms and their Efficiency  | Chapter 11 | | |[Sorting_SQ](documents/Sorting_studyQ.pdf)
 16 | W, 6/26 |-//- | | 
 17| TH, 6/27 | Stack | Chapter 6 | **#4 DUE** #5 posted |

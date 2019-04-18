@@ -34,7 +34,7 @@ x | F, 4/26 | **NO CLASS** | |  |
 23 | F, 5/3 | Tree Implementation | Chapter 16  ||
 24 | T, 5/7 | -//- |  |**#5 Due** #6 Posted (optional)
 25 |F, 5/10 |  Additional Topic  | |
-26 |T, 5/14 | -//- |  |  **#6 DUE (optional)**
+26 |T, 5/14 | **Mock Exam**|  |  **#6 DUE (optional)**
 x |<b><span style="color:red"> M, 5/20 </span></b>  | <b><span style="color:red">  9:00-11:00  </span></b> | <b><span style="color:red"> FINAL EXAM </span></b> | |
 
 

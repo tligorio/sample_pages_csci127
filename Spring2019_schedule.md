@@ -30,7 +30,7 @@ x | F, 3/22| **Midterm** |
 x | F, 4/19 | **NO CLASS** | |   **#4 Due** | 
 x | T, 4/23 | **NO CLASS** | |  | 
 x | F, 4/26 | **NO CLASS** | |  | 
-22 | T, 4/30 | Tree | Chapter 15 |**#5 Posted** | 
+22 | T, 4/30 | Tree | Chapter 15 |[#5 Posted](documents/Project_5.pdf)| 
 23 | F, 5/3 | -//-| | |
 24 | T, 5/7 | Tree Implementation| Chapter 16  | #6 Posted (optional)
 25 |F, 5/10 |   -//- | |**#5 Due**

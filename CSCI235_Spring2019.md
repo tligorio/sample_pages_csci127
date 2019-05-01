@@ -48,6 +48,9 @@ Fr - all tutoring in lab B
 
 ## Announcements:
 
+**5/1/2019 Personal Essay Writing Workshop**
+![Workshop](documents/EssayWorkshop.pdf)
+
 **2/7/2019 Changes to Project1B subission**   
 I noticed that many of you have been trying to submit individual classes as you incrementally implement Project1B. To support that, I have decided to **split the submission of Project1B into 3, one submission per class**. I also now want you to **submit both the Interface and the Implementation files for each class**.
 I have updated the project specification to reflect that, and I am about to open the 3-part submission on Gradescope.

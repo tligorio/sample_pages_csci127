@@ -30,9 +30,9 @@ x | F, 3/22| **Midterm** |
 x | F, 4/19 | **NO CLASS** | |   **#4 Due** | 
 x | T, 4/23 | **NO CLASS** | |  | 
 x | F, 4/26 | **NO CLASS** | |  | 
-22 | T, 4/30 | Tree | Chapter 15 |[#5 Posted](documents/Project_5.pdf)| 
+22 | T, 4/30 | Tree | Chapter 15 |[#5 Posted](documents/Project_5.pdf)| [Lecture22](Lectures/Lecture22_Trees.pdf)
 23 | F, 5/3 | -//-| | |
-24 | T, 5/7 | Tree Implementation| Chapter 16  | [#6 Posted](documents/Project_6.pdf) (optional)
+24 | T, 5/7 | Tree Implementation| Chapter 16  | [#6 Posted](documents/Project_6.pdf) (optional)| [Lecture24](Lectures/Lecture23_TreeImpl.pdf)
 25 |F, 5/10 |   -//- | |**#5 Due**
 26 |T, 5/14 | **Mock Final Exam**|  | 
 x |<b><span style="color:red"> M, 5/20 </span></b>  | <b><span style="color:red">  9:00-11:00  </span></b> | <b><span style="color:red"> FINAL EXAM </span></b> | |

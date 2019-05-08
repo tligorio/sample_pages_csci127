@@ -23,16 +23,16 @@ x | F, 3/22| **Midterm** |
 15 | T, 3/26 | Algorithm Efficiency | Chapter 10 | | [Lecture15](Lectures/Lecture15_AlgoEfficiency.pdf)|[AlgoEfficiency_SQ](documents/AlgoEff_studyQ.pdf)
 16 | F, 3/29 |Searching and Sorting Algorithms and their Efficiency  | Chapter 11 | [#3A Posted](documents/Project_3A.pdf)|[Lecture16](Lectures/Lecture16_SearchingSorting.pdf)|[Sorting_SQ](documents/Sorting_studyQ.pdf)
 17| T, 4/2 | -//- | | 
-18 | F, 4/5 |Stack | Chapter 6 | **#3A Due** /[#3B Posted](documents/Project_3B.pdf)|[Lecture18](Lectures/Lecture17_Stack.pdf)
+18 | F, 4/5 |Stack | Chapter 6 | **#3A Due** /[#3B Posted](documents/Project_3B.pdf)|[Lecture18](Lectures/Lecture17_Stack.pdf) | [Stack_SQ](documents/Stack_studyQ.pdf)
 19 | T, 4/9 | Stack Implementation + Exception Handling  | Chapter 7 + C++ Interludes 3 and 4 |  | [Lecture19](Lectures/Lecture18_Stack_Impl.pdf)
-20 | F, 4/12 | Queue | Chapter 13 | **#3B Due** /[#4 Posted](documents/Project_4.pdf) |[Exceptions](Lectures/Lecture19_ExceptionHandlng.pdf) [Lecture20](Lectures/Lecture19_Queue.pdf)
+20 | F, 4/12 | Queue | Chapter 13 | **#3B Due** /[#4 Posted](documents/Project_4.pdf) |[Exceptions] (Lectures/Lecture19_ExceptionHandlng.pdf) [Lecture20](Lectures/Lecture19_Queue.pdf) | [Queue_SQ](documents/Queue_studyQ.pdf)
 21 | T, 4/16 |Queue Implementation | Chapter 14 | |   
 x | F, 4/19 | **NO CLASS** | |   **#4 Due** | 
 x | T, 4/23 | **NO CLASS** | |  | 
 x | F, 4/26 | **NO CLASS** | |  | 
 22 | T, 4/30 | Tree | Chapter 15 |[#5 Posted](documents/Project_5.pdf)| [Lecture22](Lectures/Lecture22_Trees.pdf)
 23 | F, 5/3 | -//-| | |
-24 | T, 5/7 | Tree Implementation| Chapter 16  | [#6 Posted](documents/Project_6.pdf) (optional)| [Lecture24](Lectures/Lecture23_TreeImpl.pdf)
+24 | T, 5/7 | Tree Implementation| Chapter 16  | [#6 Posted](documents/Project_6.pdf) (optional)| [Lecture24](Lectures/Lecture23_TreeImpl.pdf) | [Tree_SQ](documents/Tree_studyQ.pdf)
 25 |F, 5/10 |   -//- | |**#5 Due**
 26 |T, 5/14 | **Mock Final Exam**|  | 
 x |<b><span style="color:red"> M, 5/20 </span></b>  | <b><span style="color:red">  9:00-11:00  </span></b> | <b><span style="color:red"> FINAL EXAM </span></b> | |

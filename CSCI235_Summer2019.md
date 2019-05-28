@@ -30,7 +30,7 @@ Th      11:00 - 1:00 , 3:00 - 4:00
 
 ### [Project Submission Help](gradescope_help.md)
 
-### [Installing Windows Subsystem for Linux **by Owen Kunhardt**](documents/Installing_WSL.pdf)
+### [Installing Windows Subsystem for Linux by Owen Kunhardt](documents/Installing_WSL.pdf)
 
 ### [A tutorial by Prof. Stewart Weiss on Separate Compilation](http://www.compsci.hunter.cuny.edu/~sweiss/resources/separateCompilation.pdf)
 

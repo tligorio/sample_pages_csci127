@@ -15,7 +15,7 @@ The primary focus of this course is the **design and analysis of algorithms and 
 ### UTA tutoring: 
 **Lab 1001B Hunter North -- Drop-in Tutoring**   
 Mo      12:00 - 1:00 , 3:00 - 5:00   
-Tu      12:00 - 1:00 , 3:00 - 4:00   
+Tu      12:00 - 1:00 , 3:00 - 5:00   
 We      12:00 - 1:00 , 3:00 - 4:00  
 Th      11:00 - 1:00 , 3:00 - 4:00 
 

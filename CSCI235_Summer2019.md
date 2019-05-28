@@ -22,7 +22,7 @@ Th      11:00 - 1:00 , 3:00 - 4:00
 
 ## Resources:
 
-### [Syllabus](documents/CSCI235_SUmmer2019_Syllabus.pdf)   **-- PLEASE READ THIS CAREFULLY --**
+### [Syllabus](documents/CSCI235_Summer2019_Syllabus.pdf)   **-- PLEASE READ THIS CAREFULLY --**
 
 ### [Programming Rules](documents/CSCI235_Summer2019_ProgrammingRules.pdf) **-- PLEASE READ THIS CAREFULLY --**
 

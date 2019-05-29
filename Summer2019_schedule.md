@@ -4,7 +4,7 @@
 
 LECTURE | DATE | TOPIC | READING | PROJECT | SLIDES | STUDY QUESTIONS |
 ------- | ---- | ----- | -------- | --------- | ------- | ------- |
-1 | W, 5/29 | Welcome / Intro | **Syllabus, Programming Rules** |  | 
+1 | W, 5/29 | Welcome / Intro | **Syllabus, Programming Rules** |  | [Lecture 1](Lectures/Lecture_1_Intro.pdf)
 2 | TH,  5/30 | Abstraction / OOP | Chapter 1, Appendix B   |  #1 Posted |
 3 | M, 6/3 | Abstract Data Types / Templates /Intro to Inheritance | C++ Interlude-1 | |  |  [ADT_IN_SQ](documents/ADT_InheritanceQ.pdf)
 4 | T, 6/4 | Array-Based Implementation | Chapter 3  |  |  | [ArrayBag_SQ](documents/ArrayBag_studyQ.pdf)

@@ -10,7 +10,7 @@ LECTURE | DATE | TOPIC | READING | PROJECT | SLIDES | STUDY QUESTIONS |
 4 | T, 6/4 | Array-Based Implementation | Chapter 3  |  |  | [ArrayBag_SQ](documents/ArrayBag_studyQ.pdf)
 5 | W, 6/5 | Link-based Implementation  | C++ Interlude 2 (Pointers), [pointers and references tutorial](http://www.ntu.edu.sg/home/ehchua/programming/cpp/cp4_pointerreference.html),  Chapter 4| |  | [LinkedChain_SQ](documents/LinkedChain_studyQ.pdf)
 6 | TH, 6/6 | -//- |  | **#1 DUE** #2 posted |
-7 | M, 6/10 | Lists + Exceptions + Managed Pointers| Chapters 8/9 + C++ Interludes 3 and 4 |  | | [List_SQ](documents/List_studyQ.pdf)
+7 | M, 6/10 | Lists + Exceptions | Chapters 8/9 + C++ Interlude 3 |  | | [List_SQ](documents/List_studyQ.pdf)
 8 | T, 6/11 | -//-|  |    | 
 9 | W, 6/12 | Inheritance  & Polymorphism  | C++ Interlude 2 (Polymorphism) | |  | [Polymorphism_SQ](documents/Polymorphism_studyQ.pdf)
 10 | TH, 6/13 | -//-  |  | **#2 DUE** #3 posted | |
@@ -23,7 +23,7 @@ X | TH, 6/20 |**Midterm Exam**  |  | **#3 DUE** #4 posted |  |  |
 16 | W, 6/26 |-//- | | 
 17| TH, 6/27 | Stack | Chapter 6 | **#4 DUE** #5 posted |  | [Stack_SQ](documents/Stack_studyQ.pdf)
 18 | M, 7/1 |Queue| Chapter 13  |  |  | [Queue_SQ](documents/Queue_studyQ.pdf)
-19 | T, 7/2 | Stack and Queue Implementation <b><span style="color:red"> ONLINE</span></b> | Chapters 7, 14 |  | 
+19 | T, 7/2 | Stack and Queue Implementation + Managed Pointers <b><span style="color:red"> ONLINE</span></b> | Chapters 7, 14 + Interlude 4  |  | 
 20 | W, 7/3 |  Trees | Chapter 15 | | 
 X | TH, 7/4 | **COLLEGE CLOSED** |
 21 | M, 7/8 |  Tree Implementation | Chapter 16 | **#5 DUE**| | [Tree_SQ](documents/Tree_studyQ.pdf)

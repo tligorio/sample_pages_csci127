@@ -7,7 +7,7 @@ LECTURE | DATE | TOPIC | READING | PROJECT | SLIDES | STUDY QUESTIONS |
 1 | W, 5/29 | Welcome / Intro | **Syllabus, Programming Rules** |  | [Lecture 1](Lectures/Lecture_1_Intro.pdf)
 2 | TH,  5/30 | Abstraction / OOP | Chapter 1, Appendix B   |   [#1 Posted](documents/Project_1.pdf)  |[Lecture 2](Lectures/Lecture2_OOP.pdf)
 3 | M, 6/3 | Abstract Data Types / Templates /Intro to Inheritance | C++ Interlude-1 | | [Lecture 3](Lectures/Lecture3_ADT&Templates.pdf) |  [ADT_IN_SQ](documents/ADT_InheritanceQ.pdf)
-4 | T, 6/4 | Array-Based Implementation | Chapter 3  | [#2 Posted](documents/Project_2.pdf) | [Lecture 4](Lectures/Lecture4_ArrayBag.pdf)   | [ArrayBag_SQ](documents/ArrayBag_studyQ.pdf)
+4 | T, 6/4 | Array-Based Implementation | Chapter 3  | [#2 Posted](documents/Project2.pdf) | [Lecture 4](Lectures/Lecture4_ArrayBag.pdf)   | [ArrayBag_SQ](documents/ArrayBag_studyQ.pdf)
 5 | W, 6/5 | Link-based Implementation  | C++ Interlude 2 (Pointers), [pointers and references tutorial](http://www.ntu.edu.sg/home/ehchua/programming/cpp/cp4_pointerreference.html),  Chapter 4| |  | [LinkedChain_SQ](documents/LinkedChain_studyQ.pdf)
 6 | TH, 6/6 | -//- |  | **#1 DUE** #2 posted |
 7 | M, 6/10 | Lists + Exceptions | Chapters 8/9 + C++ Interlude 3 |  | | [List_SQ](documents/List_studyQ.pdf)

@@ -13,7 +13,7 @@ LECTURE | DATE | TOPIC | READING | PROJECT | SLIDES | STUDY QUESTIONS |
 7 | M, 6/10 | Lists + Exceptions | Chapters 8/9 + C++ Interlude 3 |  | | [List_SQ](documents/List_studyQ.pdf)
 8 | T, 6/11 | -//-|  |    | 
 9 | W, 6/12 | Inheritance  & Polymorphism  | C++ Interlude 2 (Polymorphism) | |  | [Polymorphism_SQ](documents/Polymorphism_studyQ.pdf)
-10 | TH, 6/13 | -//-  |  | **#2 DUE** #3 posted | |
+10 | TH, 6/13 | -//-  |  | **#2 DUE** [#3 Posted](documents/Project3.pdf) | |
 11 | M, 6/17 | Recursion | Chapter 2 | | |  [Recursion_SQ](documents/Recursion_studyQ.pdf)
 12 | T, 6/18 | More Recursion | Chapter 5 | |  
 13 | W, 6/19 | Midterm Review| |  | 

@@ -10,7 +10,7 @@ LECTURE | DATE | TOPIC | READING | PROJECT | SLIDES | STUDY QUESTIONS |
 4 | T, 6/4 | Array-Based Implementation | Chapter 3  | | [Lecture 4](Lectures/Lecture4_ArrayBag.pdf)   | [ArrayBag_SQ](documents/ArrayBag_studyQ.pdf)
 5 | W, 6/5 | Link-based Implementation  | C++ Interlude 2 (Pointers), [pointers and references tutorial](http://www.ntu.edu.sg/home/ehchua/programming/cpp/cp4_pointerreference.html),  Chapter 4| | [Lecture 5](Lectures/Lecture5_LinkedBag.pdf)   | [LinkedChain_SQ](documents/LinkedChain_studyQ.pdf)
 6 | TH, 6/6 | -//- |  | **#1 DUE** [#2 Posted](documents/Project2.pdf) |
-7 | M, 6/10 | Lists + Exceptions | Chapters 8/9 + C++ Interlude 3 |  | | [List_SQ](documents/List_studyQ.pdf)
+7 | M, 6/10 | Lists + Exceptions | Chapters 8/9 + C++ Interlude 3 |  | [Lecture 7](Lectures/Lecture7_Lists.pdf)  | [List_SQ](documents/List_studyQ.pdf)
 8 | T, 6/11 | -//-|  |    | 
 9 | W, 6/12 | Inheritance  & Polymorphism  | C++ Interlude 2 (Polymorphism) | |  | [Polymorphism_SQ](documents/Polymorphism_studyQ.pdf)
 10 | TH, 6/13 | -//-  |  | **#2 DUE** [#3 Posted](documents/Project3.pdf) | |

@@ -11,9 +11,9 @@ LECTURE | DATE | TOPIC | READING | PROJECT | SLIDES | STUDY QUESTIONS |
 5 | W, 6/5 | Link-based Implementation  | C++ Interlude 2 (Pointers), [pointers and references tutorial](http://www.ntu.edu.sg/home/ehchua/programming/cpp/cp4_pointerreference.html),  Chapter 4| | [Lecture 5](Lectures/Lecture5_LinkedBag.pdf)   | [LinkedChain_SQ](documents/LinkedChain_studyQ.pdf)
 6 | TH, 6/6 | -//- |  | **#1 DUE** [#2 Posted](documents/Project2.pdf) |
 7 | M, 6/10 | Lists + Exceptions | Chapters 8/9 + C++ Interlude 3 |  | [Lecture 7](Lectures/Lecture7_Lists.pdf)  | [List_SQ](documents/List_studyQ.pdf)
-8 | T, 6/11 | -//-|  |    | 
+8 | T, 6/11 | -//-|  |  [Lecture 8](Lectures/Lecture8_ExceptionHandling.pdf)   | 
 9 | W, 6/12 | Inheritance  & Polymorphism  | C++ Interlude 2 (Polymorphism) | | [Lecture 9](Lectures/Lecture9_Polymorphism.pdf)  | [Polymorphism_SQ](documents/Polymorphism_studyQ.pdf)
-10 | TH, 6/13 | -//-  |  | **#2 DUE** [#3 Posted](documents/Project3.pdf) | |
+10 | TH, 6/13 | -//-  |  | **#2 DUE** [#3 Posted](documents/Project3.pdf) | [Lecture 10](Lectures/Lecture10_Recursion.pdf) |
 11 | M, 6/17 | Recursion | Chapter 2 | | |  [Recursion_SQ](documents/Recursion_studyQ.pdf)
 12 | T, 6/18 | More Recursion | Chapter 5 | |  
 13 | W, 6/19 | Midterm Review| |  | 

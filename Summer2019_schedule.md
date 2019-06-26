@@ -22,11 +22,11 @@ X | TH, 6/20 |**Midterm Exam**  |  | **#3 DUE** [#4 Posted](documents/Project4.p
 15 | T, 6/25 | Searching and Sorting Algorithms and their Efficiency  | Chapter 11 | |[Lecture 15](Lectures/Lecture15_SearchingSorting.pdf) |[Sorting_SQ](documents/Sorting_studyQ.pdf)
 16 | W, 6/26 |-//- | | 
 17| TH, 6/27 | Stack | Chapter 6 | **#4 DUE** [#5 posted](documents/Project5.pdf) |  | [Stack_SQ](documents/Stack_studyQ.pdf)
-18 | M, 7/1 |Queue| Chapter 13  |  |  | [Queue_SQ](documents/Queue_studyQ.pdf)
+18 | M, 7/1 |Queue| Chapter 13  | [#6 posted **Extra Credit**](documents/Project_6.pdf)  |  | [Queue_SQ](documents/Queue_studyQ.pdf)
 19 | T, 7/2 | Stack and Queue Implementation + Managed Pointers <b><span style="color:red"> ONLINE</span></b> | Chapters 7, 14 + Interlude 4  |  | 
 20 | W, 7/3 |  Trees | Chapter 15 | | 
 X | TH, 7/4 | **COLLEGE CLOSED** |
-21 | M, 7/8 |  Tree Implementation | Chapter 16 | **#5 DUE**| | [Tree_SQ](documents/Tree_studyQ.pdf)
+21 | M, 7/8 |  Tree Implementation | Chapter 16 | **#5 DUE** **#6 DUE - Extra Credit**| | [Tree_SQ](documents/Tree_studyQ.pdf)
 22 | T, 7/9 | **Mock Final Exam** |
 23 |<b><span style="color:red">  W, 7/10 </span></b> |  <b><span style="color:red"> FINAL EXAM </span></b> | |
 

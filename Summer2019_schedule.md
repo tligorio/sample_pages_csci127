@@ -26,7 +26,7 @@ X | TH, 6/20 |**Midterm Exam**  |  | **#3 DUE** [#4 Posted](documents/Project4.p
 19 | T, 7/2 | Stack and Queue Implementation + Managed Pointers <b><span style="color:red"> ONLINE</span></b> | Chapters 7, 14 + Interlude 4  |  | 
 20 | W, 7/3 |  Trees | Chapter 15 | | 
 X | TH, 7/4 | **COLLEGE CLOSED** |
-21 | M, 7/8 |  Tree Implementation | Chapter 16 | **#5 DUE** **#6 DUE - Extra Credit**| | [Tree_SQ](documents/Tree_studyQ.pdf)
+21 | M, 7/8 |  Tree Implementation | Chapter 16 | **#5 DUE** **#6 DUE (Extra Credit)**| | [Tree_SQ](documents/Tree_studyQ.pdf)
 22 | T, 7/9 | **Mock Final Exam** |
 23 |<b><span style="color:red">  W, 7/10 </span></b> |  <b><span style="color:red"> FINAL EXAM </span></b> | |
 

@@ -19,7 +19,7 @@ LECTURE | DATE | TOPIC | READING | PROJECT | SLIDES | STUDY QUESTIONS |
 13 | W, 6/19 | Midterm Review| |  | 
 X | TH, 6/20 |**Midterm Exam**  |  | **#3 DUE** [#4 Posted](documents/Project4.pdf) |  |  | 
 14 | M, 6/24| Algorithm Efficiency | Chapter 10 | | [Lecture 14](Lectures/Lecture14_AlgoEfficiency.pdf)|[AlgoEfficiency_SQ](documents/AlgoEff_studyQ.pdf)
-15 | T, 6/25 | Searching and Sorting Algorithms and their Efficiency  | Chapter 11 | |[Lecture 15](Lecture15_SearchingSorting.pdf) |[Sorting_SQ](documents/Sorting_studyQ.pdf)
+15 | T, 6/25 | Searching and Sorting Algorithms and their Efficiency  | Chapter 11 | |[Lecture 15](Lecture15/SearchingSorting.pdf) |[Sorting_SQ](documents/Sorting_studyQ.pdf)
 16 | W, 6/26 |-//- | | 
 17| TH, 6/27 | Stack | Chapter 6 | **#4 DUE** #5 posted |  | [Stack_SQ](documents/Stack_studyQ.pdf)
 18 | M, 7/1 |Queue| Chapter 13  |  |  | [Queue_SQ](documents/Queue_studyQ.pdf)

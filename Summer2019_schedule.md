@@ -21,12 +21,12 @@ X | TH, 6/20 |**Midterm Exam**  |  | **#3 DUE** [#4 Posted](documents/Project4.p
 14 | M, 6/24| Algorithm Efficiency | Chapter 10 | | [Lecture 14](Lectures/Lecture14_AlgoEfficiency.pdf)|[AlgoEfficiency_SQ](documents/AlgoEff_studyQ.pdf)
 15 | T, 6/25 | Searching and Sorting Algorithms and their Efficiency  | Chapter 11 | |[Lecture 15](Lectures/Lecture15_SearchingSorting.pdf) |[Sorting_SQ](documents/Sorting_studyQ.pdf)
 16 | W, 6/26 |-//- | | 
-17| TH, 6/27 | Stack | Chapter 6 | **#4 DUE** [#5 posted](documents/Project5.pdf) |  | [Stack_SQ](documents/Stack_studyQ.pdf)
-18 | M, 7/1 |Queue| Chapter 13  | [#6 posted **Extra Credit**](documents/Project_6.pdf)  |  | [Queue_SQ](documents/Queue_studyQ.pdf)
-19 | T, 7/2 | Stack and Queue Implementation + Managed Pointers <b><span style="color:red"> ONLINE</span></b> | Chapters 7, 14 + Interlude 4  |  | 
-20 | W, 7/3 |  Trees | Chapter 15 | | 
+17| TH, 6/27 | Stack | Chapter 6 | **#4 DUE** [#5 posted](documents/Project5.pdf) | [Lecture 17](Lectures/Lecture17_Stack.pdf)  | [Stack_SQ](documents/Stack_studyQ.pdf)
+18 | M, 7/1 |Queue| Chapter 13  | [#6 posted **Extra Credit**](documents/Project_6.pdf)  | [Lecture 18](Lectures/Lecture18_Queue.pdf) | [Queue_SQ](documents/Queue_studyQ.pdf)
+19 | T, 7/2 | Stack and Queue Implementation + Managed Pointers <b><span style="color:red"> ONLINE</span></b> | Chapters 7, 14 + Interlude 4  |  | [Lecture 19 StackImpl](Lectures/Lecture19_Stack_Impl.pdf) [Lecture 19 QueueImpl](Lectures/Lecture19_Queue_Impl.pdf) [Lecture 19 ManagedPtr](Lectures/Lecture19_ManagedPointers.pdf)
+20 | W, 7/3 |  Trees | Chapter 15 | | [Lecture 20](Lectures/Lecture20_Trees.pdf)
 X | TH, 7/4 | **COLLEGE CLOSED** |
-21 | M, 7/8 |  Tree Implementation | Chapter 16 | **#5 DUE** **#6 DUE (Extra Credit)**| | [Tree_SQ](documents/Tree_studyQ.pdf)
+21 | M, 7/8 |  Tree Implementation | Chapter 16 | **#5 DUE** **#6 DUE (Extra Credit)**|  [Lecture 21](Lectures/Lecture21_TreeImpl.pdf)| [Tree_SQ](documents/Tree_studyQ.pdf)
 22 | T, 7/9 | **Mock Final Exam** |
 23 |<b><span style="color:red">  W, 7/10 </span></b> |  <b><span style="color:red"> FINAL EXAM </span></b> | |
 

@@ -5,7 +5,7 @@
 LECTURE | DATE | TOPIC | READING | PROJECT | SLIDES | STUDY QUESTIONS |
 ------- | ---- | ----- | -------- | --------- | ------- | ------- |
 1 | T, 8/27 | Welcome / Intro | **Syllabus, Programming Rules** |  | 
-2 | F,  8/30 | Abstraction / OOP | Chapter 1, Appendix B   |   [#1 Posted](documents/Project_1.pdf)  |
+2 | F,  8/30 | Abstraction / OOP | Chapter 1, Appendix B   |   #1 Posted  |
 3 | T, 9/3 | Abstract Data Types / Templates /Intro to Inheritance | C++ Interlude-1 | |  |  [ADT_IN_SQ](documents/ADT_InheritanceQ.pdf)
 4 | F, 9/6 | Array-Based Implementation | Chapter 3  | |  | [ArrayBag_SQ](documents/ArrayBag_studyQ.pdf)
 5 | T, 9/10| Link-based Implementation  | C++ Interlude 2 (Pointers), [pointers and references tutorial](http://www.ntu.edu.sg/home/ehchua/programming/cpp/cp4_pointerreference.html),  Chapter 4| |  | [LinkedChain_SQ](documents/LinkedChain_studyQ.pdf)
@@ -28,14 +28,14 @@ X | F, 10/18 | **Midterm Exam**  |  | **#3 DUE** [#4 Posted](documents/Project4.
 19 | F, 11/8 | Queue| Chapter 13  | [#6 posted **Extra Credit**](documents/Project_6.pdf)  |  | [Queue_SQ](documents/Queue_studyQ.pdf)
 20 | T, 11/12 | Queue Implementation | Chapter 14  |  | 
 21 | F, 11/15 | Trees | Chapter 15 | | 
-22 | T, 11/19 | -\\- 
+22 | T, 11/19 | -//- 
 23 | F, 11/22 |  Managed Pointers +  Tree Implementation | Interlude 4  + Chapter 16 | **#5 DUE** **#6 DUE (Extra Credit)**| | [Tree_SQ](documents/Tree_studyQ.pdf)
-24 | T, 11/26 | -\\- 
+24 | T, 11/26 | -//- 
 X | F, 11/29 | NO CLASSES
 25 | T, 12/3 |
 26 | F, 12/6 |
 27 | T, 12/10 |
-28 | F, 12/13 |
+28 | F, 12/13 | Final Review |
 X |<b><span style="color:red">  TBD </span></b> |  <b><span style="color:red"> FINAL EXAM </span></b> | |
 
 

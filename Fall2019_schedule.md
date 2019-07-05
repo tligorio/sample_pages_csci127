@@ -38,7 +38,7 @@ X | F, 11/29 | NO CLASSES
 27 | F, 12/6 |
 28 | T, 12/10 |
 29 | F, 12/13 |
-23 |<b><span style="color:red">  TBD </span></b> |  <b><span style="color:red"> FINAL EXAM </span></b> | |
+X |<b><span style="color:red">  TBD </span></b> |  <b><span style="color:red"> FINAL EXAM </span></b> | |
 
 
 

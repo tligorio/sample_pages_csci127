@@ -23,8 +23,8 @@ X | F, 10/18 | **Midterm Exam**  |  | |  |  |
 14 | T, 10/22 | Algorithm Efficiency | Chapter 10 | | |[AlgoEfficiency_SQ](documents/AlgoEff_studyQ.pdf)
 15 | F, 10/25 | Searching and Sorting Algorithms and their Efficiency  | Chapter 11 |#6 Posted  | |[Sorting_SQ](documents/Sorting_studyQ.pdf)
 16 | T, 10/29| -//- | | 
-17 | F, 11/1 |  Stack | Chapter 6 | **#6 DUE** [#7 posted] |  | [Stack_SQ](documents/Stack_studyQ.pdf)
-18 | T, 11/5 | Stack Implementation | Chapter 7 | | [Lecture 19 StackImpl] || [Stack_SQ](documents/Stack_studyQ.pdf)
+17 | F, 11/1 |  Stack | Chapter 6 | **#6 DUE** #7 posted |  | [Stack_SQ](documents/Stack_studyQ.pdf)
+18 | T, 11/5 | Stack Implementation | Chapter 7 | |  || [Stack_SQ](documents/Stack_studyQ.pdf)
 19 | F, 11/8 | Queue| Chapter 13  | **#7 DUE** #8 Posted  |  | [Queue_SQ](documents/Queue_studyQ.pdf)
 20 | T, 11/12 | Queue Implementation | Chapter 14  |  | 
 21 | F, 11/15 | Trees | Chapter 15 |**#8 DUE** #9 Posted  | 

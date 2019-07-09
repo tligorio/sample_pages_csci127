@@ -9,13 +9,13 @@ LECTURE | DATE | TOPIC | READING | PROJECT | SLIDES | STUDY QUESTIONS |
 3 | T, 9/3 | Intro to Inheritance / Abstract Data Types / Templates  | C++ Interlude 1 | |  |  [ADT_IN_SQ](documents/ADT_InheritanceQ.pdf)
 4 | F, 9/6 | Array-Based Implementation | Chapter 3  |**#1 DUE** #2 Posted  |  | [ArrayBag_SQ](documents/ArrayBag_studyQ.pdf)
 5 | T, 9/10| Link-based Implementation  | C++ Interlude 2 (Pointers), [pointers and references tutorial](http://www.ntu.edu.sg/home/ehchua/programming/cpp/cp4_pointerreference.html),  Chapter 4| |  | [LinkedChain_SQ](documents/LinkedChain_studyQ.pdf)
-6 | F, 9/13 | -//- | | **#2 DUE** #3 Posted   | |
-7 | T, 9/17 | Lists + Exceptions | Chapters 8/9 + C++ Interlude 3 |  |   | [List_SQ](documents/List_studyQ.pdf)
-8 | F, 9/20 | -//-|  | **#3 DUE** #4 Posted  | |   | 
-9 | T, 9/24 | Inheritance  & Polymorphism  | C++ Interlude 2 (Polymorphism) | |  | [Polymorphism_SQ](documents/Polymorphism_studyQ.pdf)
-10 | F, 9/27 | -//-  |  | **#4 DUE** #5 Posted  | |
+6 | F, 9/13 | -//- | | **#2 DUE**   | |
+7 | T, 9/17 | Lists + Exceptions | Chapters 8/9 + C++ Interlude 3 |  #3 Posted |   | [List_SQ](documents/List_studyQ.pdf)
+8 | F, 9/20 | -//-|  |  | |   | 
+9 | T, 9/24 | Inheritance  & Polymorphism  | C++ Interlude 2 (Polymorphism) | #4 Posted  |  | [Polymorphism_SQ](documents/Polymorphism_studyQ.pdf)
+10 | F, 9/27 | -//-  |  |  **#3 DUE**   | |
 X | T, 10/1 | NO CLASSES
-11 | F, 10/4 | Recursion | Chapter 2 | | |  [Recursion_SQ](documents/Recursion_studyQ.pdf)
+11 | F, 10/4 | Recursion | Chapter 2 |**#4 DUE** #5 Posted | |  [Recursion_SQ](documents/Recursion_studyQ.pdf)
 X | T, 10/8 | NO CLASSES
 12 | F, 10/11 | More Recursion | Chapter 5 | **#5 DUE**  |  
 13 | T, 10/15| Midterm Review| |  | 

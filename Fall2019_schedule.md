@@ -12,8 +12,8 @@ LECTURE | DATE | TOPIC | READING | PROJECT | SLIDES | STUDY QUESTIONS |
 6 | F, 9/13 | -//- | | **#2 DUE** #3 Posted   | |
 7 | T, 9/17 | Lists + Exceptions | Chapters 8/9 + C++ Interlude 3 |  |   | [List_SQ](documents/List_studyQ.pdf)
 8 | F, 9/20 | -//-|  |  | |   | 
-9 | T, 9/24 | Polymorphism  | C++ Interlude 2 (Polymorphism) | #4 Posted  |  | [Polymorphism_SQ](documents/Polymorphism_studyQ.pdf)
-10 | F, 9/27 | -//-  |  |  **#3 DUE**   | |
+9 | T, 9/24 | Polymorphism  | C++ Interlude 2 (Polymorphism) |**#3 DUE**  #4 Posted  |  | [Polymorphism_SQ](documents/Polymorphism_studyQ.pdf)
+10 | F, 9/27 | -//-  |  |    | |
 X | T, 10/1 | NO CLASSES
 11 | F, 10/4 | Recursion | Chapter 2 |**#4 DUE** #5 Posted | |  [Recursion_SQ](documents/Recursion_studyQ.pdf)
 X | T, 10/8 | NO CLASSES

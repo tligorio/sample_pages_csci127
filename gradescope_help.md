@@ -8,7 +8,7 @@ Gradescope will allow multiple submissions until the project deadline. You are w
 Gradescope doesn't provide useful compilation messages when it fails to execute. Here are some things you should check:
   
 ## Autograder Failures/Error Messages Upon Submission:
-- If "Test compiles" fails, all other tests will fail with a "No such file or directory" message. You need to determine why your submission does not compile. The best way to debug this is to compile it with g++ on Ubuntu Linux in the lab.  
+- If "Test compiles" fails, all other tests will fail with a "No such file or directory" message. You need to determine why your submission does not compile. The best way to debug this is to compile it with g++ on Ubuntu Linux in the lab and check the compiler error messages.  
 
 > The autograder failed to execute correctly. Contact your course staff for help in debugging this issue. Make sure to include a link to this page so that they can help you most effectively.
 

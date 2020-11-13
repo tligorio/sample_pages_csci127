@@ -6,4 +6,8 @@
 
 [https://www.ligoriotiziana.info](https://www.ligoriotiziana.info)
 
+Some more text
+
+**bold text**
+
 

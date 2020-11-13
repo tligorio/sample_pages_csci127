@@ -1,4 +1,4 @@
-**email:** tligorio@hunter.cuny.edu  
+**email:** tligorio@hunter.cuny.edu    
 
 **Office:** Hunter North 520H 
 

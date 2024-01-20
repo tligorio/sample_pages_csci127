@@ -1,4 +1,4 @@
-# tligorio.github.io
-Tiziana Ligorio
 
-Webpages for courses taught at Hunter College, The City University of New York
+Page title
+
+Sample webpage for Intro to Computer Science - CSCI 127 - Hunter College, The City University of New York
